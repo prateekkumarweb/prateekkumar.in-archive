@@ -1,0 +1,28 @@
+- grouping: Programming Languages
+  skills:
+    - C
+    - C++
+    - Python
+    - Java
+    - Kotlin
+    - Nodejs
+    - Haskell
+    - Prolog
+    - SQL
+    - Bash
+- grouping: Operating System
+  skills:
+    - GNU/Linux
+- grouping: Web Development
+  skills:
+    - HTML5
+    - CSS3
+    - JavaScript
+- grouping: Software Tools
+  skills:
+    - Git
+    - LaTeX 2e
+    - Octave/Matlab
+    - MongoDB
+    - CouchDB
+    - LLVM Infrastructure

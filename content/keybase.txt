@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/prateekkumarweb
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://prateekkumar.in
+  * I am prateekkumarweb (https://keybase.io/prateekkumarweb) on keybase.
+  * I have a public key with fingerprint AA58 A821 3007 883D 3E5F  95B1 CCF0 B4F8 46B8 EE31
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101c66ac10cc6fb0ff7e9e7a7fe6991e9aa6a3390548e77e938d473452b038012570a",
+      "fingerprint": "aa58a8213007883d3e5f95b1ccf0b4f846b8ee31",
+      "host": "keybase.io",
+      "key_id": "ccf0b4f846b8ee31",
+      "kid": "0101c66ac10cc6fb0ff7e9e7a7fe6991e9aa6a3390548e77e938d473452b038012570a",
+      "uid": "0b17e3b40ccee515efed2d32c52e1919",
+      "username": "prateekkumarweb"
+    },
+    "service": {
+      "hostname": "prateekkumar.in",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1513918172,
+  "expire_in": 157680000,
+  "prev": "0d5969d643770bd8b4daa1c16d50b96ffa42f1882cf5fe7961988bb791780fdd",
+  "seqno": 47,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtkm1MFEcYx+8OFKEBUdpSCGKy2IJI6c7t+wlFJDnbGEFCkNfk2NmdxfXk9txb
+jgIhFGnSaqltaonpgVgLrS8p0EJTWkvUKEoTJUUQm4ainAUsKuIZQ4XG2F3bfvNj
+58tk5vn/f/N/nsxH4UGmFebL9799ZP/+HjBfmoWm4rQD/loMKmI1ZqvFnOjphnaL
+yKM5nLKI2TAc4ECgaV4AuCDQEsQliUEcYnhGQjTHAcTxPM0TBIdTJIsYvUawIskQ
+JGWFOMHiwEoxOI+lYJLsKkeqW5Vdmo7leYrlWSsgcJxhWUIkECVxFASCIOGQlFiS
+hixCBNCNOxWP4dDDQd6DUmVFv9MPjqfxnqH/n3NX/oODgEEEJHUYQhSgkIREq0hY
+BcqKAAc4Q+hBqouvQLrarfIaQk5nZQWvViGI1aVgetErC8iYr9HQM4SpskunuFVF
+UwRlt17cqWluj80wa9VuQ62jHP9yHFB2ifpEdYcXqR5ZcWE2oCsFTTbAgAIEB1jA
+WFMw9JZbVpFDNhQUQ7O4vox3kFcwGhMpjuZEmiQYBociC0mR54EAaJHCIUdLEk9a
+JcCyVkGiJMRwNOBYFkKGAwyLS6KIGa3tcSmYjWT0oHy5zvTI5S5eq1QRVhe2zxIX
+bDKvMC1fZjE+myksNPK/H7ihMtL0Thvr+6P+Tv9IxsDvGVeProuZ/iZnslkY6f9k
+zW+fX29PG6B/ShdP7Hl4uHQoee2bvXiCTD4uaTy2MV9Y32Q5fNfsu7h/3895eRf2
+XpTPfXzGs3hn1arJ9F/SZpdvw04Vxh0Lsr9+KAYTwiz3VMXuTRwTq5JaYgeLE/ty
+e3bUbT5YE/XZwdPZBZ23OgvDe1faQlputMylPThRl9MROxplmsu+PhNd0/Ule6T9
+qD8k5+SOM5vLMiu3BcKj/K3sEw1+1zzS5WzdPP5Fgt/5PkeYG8ayJxrC4H7AdI83
+LtIvvXdpb0hohDupdzDo7nMxZN5i1Q+3ryWWl3zQPxRnndp0aNMTLD19KL61IT+/
+OCa6rAf/Orkv1QXhaVPuBBVR09bE9ecFpU6F+yc/zbvZ1MOM1FS0Jwz1jvq8+Pjq
+vwKRCc2DYw8759ZnTflsWzKKunaNxy1YYtuzvbNNVy873v61QClNvPWj5glefX9h
++9KR+lwtq+PDpfz543L8la2+iMyt05b5to6vovui1gzHL1X32JWGkrWlRYlFA2eH
+07dveSHWJHfXNoZOd/pnMudXBi5snFjXoMaqWQvBNc9fe+XdqKwDD+iOJKarbya+
+sO34lW5zoABberVj0B5IJk6drVfO3/a97H/tDf+ukNGuMuI8efLxi4/OKYGbMcvs
+G24M/UksasPobw==
+=/emk
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/prateekkumarweb
+
+==================================================================
+

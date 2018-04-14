@@ -1,0 +1,66 @@
+baseURL = "https://prateekkumar.in/"
+languageCode = "en-in"
+title = "Prateek Kumar"
+enableRobotsTXT = true
+enableGitInfo = true
+googleAnalytics = "UA-89128710-1"
+enableEmoji = true
+ignoreFiles = ["LICENSE", "README.md"]
+theme = "hugo-resume"
+
+[params]
+    firstName = "Prateek"
+    lastName = "Kumar"
+    address = "IIT Hyderabad, Kandi, Sangareddy - 502285, Telangana, INDIA"
+    contactNote = "Student"
+    profileImage = "https://www.gravatar.com/avatar/032b5330be600e6ebb83110ad1c52c96?s=400"
+    description = "Undergraduate student at Department of Computer Science and Engineering, Indian Institute of Technology Hyderabad."
+    email = "prateek@prateekkumar.in"
+    # favicon = "images/favicon.ico"
+    showSkills = true
+    # showProjects = true
+    # showOpenSource = true
+    # showPublications = true
+    # showExperience = true
+    showQr = true
+    showEducation = true
+    # gitCommitPrefix = "https://github.com/prateekkumarweb/prateekkumar.in/commit"
+
+[[params.handles]]
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/prateekkumarweb"
+
+[[params.handles]]
+    name = "Twitter"
+    link = "https://github.com/prateekkumarweb"
+
+[[params.handles]]
+    name = "Bitbucket"
+    link = "https://bitbucket.org/prateekkumarweb"
+
+[[params.handles]]
+    name = "Keybase"
+    link = "https://keybase.io/prateekkumarweb"
+    icon = "key"
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/prateekkumarweb"
+
+[[params.handles]]
+    name = "Facebook"
+    link = "https://www.facebook.com/prateekkumarweb"
+
+[[params.handles]]
+    name = "Reddit"
+    link = "https://www.reddit.com/user/prateekkumarweb"
+
+[[params.handles]]
+    name = "Instagram"
+    link = "https://www.instagram.com/prateekkumarweb"
+
+[params.google.analytics]
+    trackerID = "UA-89128710-1"
+
+[outputs]
+    home = ["HTML", "JSON"]

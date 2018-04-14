@@ -1,0 +1,6 @@
+# HTTP to HTTPS
+http://prateekkumar.in/* https://prateekkumar.in/:splat 301!
+http://www.prateekkumar.in/* https://prateekkumar.in/:splat 301!
+https://www.prateekkumar.in/* https://prateekkumar.in/:splat 301!
+http://prateekkumar-in.netlify.com/* https://prateekkumar.in/:splat 301!
+https://prateekkumar-in.netlify.com/* https://prateekkumar.in/:splat 301!
