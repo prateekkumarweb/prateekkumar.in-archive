@@ -239,6 +239,16 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "https://www.facebook.com/prateekkumarweb"
 
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "https://www.linkedin.com/in/prateekkumarweb/"
+
+  [[params.social]]
+    icon = "instagram"
+    icon_pack = "fa"
+    link = "https://www.instagram.com/prateekkumarweb/"
+
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
 #     desired widget in your `content/home/` folder.
