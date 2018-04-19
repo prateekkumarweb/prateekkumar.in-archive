@@ -1,0 +1,30 @@
+{
+  "name": "prateekkumar.in",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "hugo && grunt",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prateekkumarweb/prateekkumar.in.git"
+  },
+  "author": "Prateek Kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prateekkumarweb/prateekkumar.in/issues"
+  },
+  "homepage": "https://github.com/prateekkumarweb/prateekkumar.in#readme",
+  "dependencies": {
+    "grunt": "^1.0.2",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-cssmin": "^2.2.1",
+    "grunt-contrib-htmlmin": "^2.4.0",
+    "grunt-contrib-imagemin": "^2.0.1",
+    "grunt-contrib-uglify": "^3.3.0"
+  },
+  "devDependencies": {}
+}

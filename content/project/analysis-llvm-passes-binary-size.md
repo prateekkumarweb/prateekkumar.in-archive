@@ -43,6 +43,6 @@ create a prediction model (based on simple linear regression) that is correctly
 able to predict the executable size obtained by a combination of groups when
 given only the sizes obtained by the individual groups.
 
-
 **Update:** Due to unavoidable reasons we could not present the talk at
 EuroLLVM 2018.
+
