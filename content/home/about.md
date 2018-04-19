@@ -13,6 +13,7 @@ weight = 5
     "Constraint Solving",
     "Software Verification",
     "Formal methods",
+    "Compiler Optimizations",
     "High Performance Computing",
     "Complexity Theory",
     "Algorithms",
@@ -25,21 +26,11 @@ weight = 5
   institution = "Indian Institute of Technology Hyderabad"
   year = "2015 - Present"
 
-# [[education.courses]]
-#   course = "MEng in Artificial Intelligence"
-#   institution = "Massachusetts Institute of Technology"
-#   year = 2009
-
-# [[education.courses]]
-#   course = "BSc in Artificial Intelligence"
-#   institution = "Massachusetts Institute of Technology"
-#   year = 2008
-
 +++
 
-# Biography
+# About me
 
-I am a student and developer currently pursuing my Bachelor's degree in
+I am a student currently pursuing my Bachelor's degree in
 [Computer Sicence and engineering](https://cse.iith.ac.in) at
 [IIT Hyderabad](https://iith.ac.in).
 

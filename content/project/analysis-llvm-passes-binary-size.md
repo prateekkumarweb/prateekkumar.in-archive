@@ -15,9 +15,11 @@ accepted as Technical talk.
 
 ## Abstract of the talk:
 
-**Analysis of Executable Size Reduction by LLVM passes**
+### Analysis of Executable Size Reduction by LLVM passes
 
 *V. Sinha, P. Kumar, S. Jain, U. Bora, S. Purini, R. Upadrasta*
+
+[Link](https://llvm.org/devmtg/2018-04/talks.html#Talk_3)
 
 Increase in the number of embedded devices and the demand to run resource
 intensive programs on these limited memory systems has necessitated the
@@ -41,3 +43,6 @@ create a prediction model (based on simple linear regression) that is correctly
 able to predict the executable size obtained by a combination of groups when
 given only the sizes obtained by the individual groups.
 
+
+**Update:** Due to unavoidable reasons we could not present the talk at
+EuroLLVM 2018.
