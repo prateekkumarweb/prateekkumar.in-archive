@@ -13,7 +13,7 @@ weight = 60
   * **Period:** January 2018 - April 2018
 * Teaching Assistant
   * **Course:** CS2433 Principles of Programming Languages II
-  * **Institute:** [IIT Hyderabad](https://iith.ac.in)
+  * **Institute:** [IIT Bhilai](https://iitbhilai.ac.in)
   * **Instrcutor:** [Dr. Ramakrishna Upadrasta](https://www.iith.ac.in/~ramakrishna/)
   * **Period:** January 2018 - April 2018
 * Teaching Assistant
