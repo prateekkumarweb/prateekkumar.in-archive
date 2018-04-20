@@ -9,17 +9,17 @@ weight = 60
 * Teaching Assistant
   * **Course:** CS2433 Principles of Programming Languages II
   * **Institute:** [IIT Hyderabad](https://iith.ac.in)
-  * **Instrcutor:** [Dr. Saurabh Joshi](https://www.iith.ac.in/~sbjoshi/)
+  * **Instructor:** [Dr. Saurabh Joshi](https://www.iith.ac.in/~sbjoshi/)
   * **Period:** January 2018 - April 2018
 * Teaching Assistant
   * **Course:** CS2433 Principles of Programming Languages II
   * **Institute:** [IIT Bhilai](https://iitbhilai.ac.in)
-  * **Instrcutor:** [Dr. Ramakrishna Upadrasta](https://www.iith.ac.in/~ramakrishna/)
+  * **Instructor:** [Dr. Ramakrishna Upadrasta](https://www.iith.ac.in/~ramakrishna/)
   * **Period:** January 2018 - April 2018
 * Teaching Assistant
   * **Course:** CS2400 Principles of Programming Languages I
   * **Institute:** [IIT Bhilai](https://iitbhilai.ac.in)
-  * **Instrcutor:** [Dr. Ramakrishna Upadrasta](https://www.iith.ac.in/~ramakrishna/)
+  * **Instructor:** [Dr. Ramakrishna Upadrasta](https://www.iith.ac.in/~ramakrishna/)
   * **Period:** October 2017 - November 2017
 * Web Developer
   * &eta;vision 2017, Technical fest of IIT Hyderabad

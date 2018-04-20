@@ -6,4 +6,5 @@
     HUGO_VERSION = "0.39"
     HUGO_ENV = "production"
     HUGO_ENABLEGITINFO = "true"
+    TZ = "Asia/Kolkata"
 
