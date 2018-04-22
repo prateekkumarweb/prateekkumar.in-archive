@@ -4,6 +4,7 @@ title = "Analysis of Executable Size Reduction by LLVM passes"
 summary = ""
 image_preview = "llvm_logo.png"
 tags = ["llvm","executable size","llvm pass"]
+external_link = ""
 math = false
 +++
 
@@ -11,7 +12,6 @@ I worked in a team as part of Course Project (Compiler Engineering) to analyze
 the impact of LLVM Passes on code bloat size and compile time on SPEC 2017 CPU
 Benchmark. We submitted an abstract of our work in EuroLLVM 2018 and got
 accepted as Technical talk.
-
 
 ## Abstract of the talk:
 

@@ -2,7 +2,7 @@
 date = 2017-11-30
 title = "Cool compiler"
 summary = "Compiler for COOL language"
-tags = ["compiler", "cool"]
+tags = ["compiler", "cool language"]
 external_link = ""
 math = false
 +++

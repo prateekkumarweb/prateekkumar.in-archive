@@ -31,6 +31,6 @@ weight = 5
 # About me
 
 I am a student currently pursuing my Bachelor's degree in
-[Computer Sicence and engineering](https://cse.iith.ac.in) at
+[Computer Sicence and Engineering](https://cse.iith.ac.in) at
 [IIT Hyderabad](https://iith.ac.in).
 
