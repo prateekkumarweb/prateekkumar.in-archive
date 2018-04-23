@@ -27,7 +27,7 @@ weight = 60
   * **Links:**
     [ID](https://github.com/nvision-2017/id)
     [Beta website](https://github.com/nvision-2017/Beta)
-    [Final webiste](https://github.com/nvision-2017/Final)
+    [Final website](https://github.com/nvision-2017/Final)
     [Battleship](https://github.com/nvision-2017/Battleship)
     [OlympicIQ](https://github.com/nvision-2017/OlympicIQ)
     [Elmatrico](https://github.com/nvision-2017/elmatrico)
