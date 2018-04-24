@@ -3,7 +3,7 @@
     command = "npm start"
 
 [context.production.environment]
-    HUGO_VERSION = "0.39"
+    HUGO_VERSION = "0.40"
     HUGO_ENV = "production"
     HUGO_ENABLEGITINFO = "true"
     TZ = "Asia/Kolkata"

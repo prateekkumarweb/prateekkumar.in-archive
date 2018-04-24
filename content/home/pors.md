@@ -1,7 +1,6 @@
 +++
 widget = "custom"
 title = "Positions of Responsibility"
-date = 2018-04-20
 active = true
 weight = 60
 +++
