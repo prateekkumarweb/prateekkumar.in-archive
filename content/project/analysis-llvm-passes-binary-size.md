@@ -6,6 +6,10 @@ image_preview = "llvm_logo.png"
 tags = ["llvm","executable size","llvm pass"]
 external_link = ""
 math = false
+
+# [header]
+# image = ""
+# caption = "LLVM Compiler toolchain"
 +++
 
 I worked in a team as part of Course Project (Compiler Engineering) to analyze

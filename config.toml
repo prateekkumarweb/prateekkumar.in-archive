@@ -60,7 +60,7 @@ enableGitInfo = true
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 0
+  map = 1
   map_api_key = ""
   latitude = "17.597991"
   longitude = "78.127090"
@@ -145,19 +145,24 @@ enableGitInfo = true
   weight = 1
 
 [[menu.main]]
+  name = "Posts"
+  url = "#posts"
+  weight = 2
+
+[[menu.main]]
   name = "Projects"
   url = "#projects"
-  weight = 2
+  weight = 3
 
 [[menu.main]]
   name = "PoRs"
   url = "#pors"
-  weight = 3
+  weight = 4
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 4
+  weight = 5
 
 [taxonomies]
   tag = "tags"

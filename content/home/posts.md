@@ -2,10 +2,10 @@
 # Recent Posts widget.
 # This widget displays recent posts from `content/post/`.
 widget = "posts"
-active = false
+active = true
 
 title = "Recent Posts"
-subtitle = ""
+subtitle = "No recent posts"
 
 # Order that this section will appear in.
 weight = 40
