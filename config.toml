@@ -26,6 +26,10 @@ enableGitInfo = true
   fractions = true
   smartypants = true
 
+[permalinks]
+  post = "/:year/:month/:day/:filename/"
+  project = "/:year/:month/:filename/"
+
 [params]
   color_theme = "default"
   font = "default"
