@@ -8,13 +8,13 @@ draft = false
 tags = ["abstract-interpretation", "software verification"]
 
 # Project summary to display on homepage.
-summary = "IMAP and SMTP Mail client implementation in C++"
+summary = "Abstract interpreter for interval domain for integers using CBMC APIs"
 
 # Optional image to display on homepage.
 image_preview = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://github.com/GoodDeeds/interval-domain-abstract-interpreter"
 
 # Does the project detail page use math formatting?
 math = false
