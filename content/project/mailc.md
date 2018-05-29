@@ -14,7 +14,7 @@ summary = "IMAP and SMTP Mail client implementation in C++"
 image_preview = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://github.com/prateekkumarweb/mailc"
 
 # Does the project detail page use math formatting?
 math = false

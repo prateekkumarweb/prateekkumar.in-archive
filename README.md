@@ -11,7 +11,7 @@
   ```sh
   $ hugo server
   ```
-* To generte production site
+* To generate production site
   ```sh
   $ npm start
   ```
