@@ -26,12 +26,5 @@ weight = 60
 #### Web Developer
   * &eta;vision 2017, Technical fest of IIT Hyderabad
   * **Period:** June 2016 - January 2017
-  * **Links:**
-    [ID](https://github.com/nvision-2017/id)
-    [Beta website](https://github.com/nvision-2017/Beta)
-    [Final website](https://github.com/nvision-2017/Final)
-    [Battleship](https://github.com/nvision-2017/Battleship)
-    [OlympicIQ](https://github.com/nvision-2017/OlympicIQ)
-    [Elmatrico](https://github.com/nvision-2017/elmatrico)
-    [Cryptex](https://github.com/nvision-2017/cryptex)
+  * **Links:** [GitHub](https://github.com/nvision-2017)
 
