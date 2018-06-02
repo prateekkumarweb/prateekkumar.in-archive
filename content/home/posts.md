@@ -5,7 +5,7 @@ widget = "posts"
 active = true
 
 title = "Recent Posts"
-subtitle = "No recent posts"
+# subtitle = "No recent posts"
 
 # Order that this section will appear in.
 weight = 40
