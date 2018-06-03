@@ -1,7 +1,6 @@
 +++
 title = "Public Key Cryptography using Elliptic Curves"
 date = 2018-06-02
-lastmod = 2018-06-02
 draft = false
 
 tags = ["ECC", "cryptography", "security", "encryption", "decryption"]
@@ -16,7 +15,7 @@ preview = true
 
 +++
 
-**Trapdoor functions** or **one-way functions**[^1] are essential for the working of public key cryptography or asymmetric cryptography where computing the reverse of the function is not feasible by modern day computers. Multiplication of two primes is easy but factoring a product of two primes is difficult, and this forms the basis of RSA cryptography, the widely used public key cryptography system. If you do not know what RSA is, I suggest reading [this](https://brilliant.org/wiki/rsa-encryption/). In this post, I talk about another asymmetric cryptography system known as Elliptic Curve Cryptography.
+[**Trapdoor functions**](https://en.wikipedia.org/wiki/Trapdoor_function) or **one-way functions** are essential for the working of public key cryptography or asymmetric cryptography where computing the reverse of the function is not feasible by modern day computers. Multiplication of two primes is easy but factoring a product of two primes is difficult, and this forms the basis of RSA cryptography, the widely used public key cryptography system. If you do not know what RSA is, I suggest reading [this](https://brilliant.org/wiki/rsa-encryption/). In this post, I talk about another asymmetric cryptography system known as Elliptic Curve Cryptography.
 
 ## Elliptic Curve Cryptography
 
@@ -25,13 +24,17 @@ Elliptic curves are planar curves defined by the following equation.
 $$y^2 = x^3 + ax + b$$ where $a$ and $b$ are constant and $4a^3 + 27b^2 \ne 0$ to avoid singular points.
 The elliptic curves are symmetric about the x-axis.
 
-Geometrically they look like this:[^2]
+Geometrically they look like this:[^pic1]
 
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/d/db/EllipticCurveCatalog.svg" title="Elliptic Curves with different values of $a$ and $b$" numbered="true" >}}
 
-To use elliptic curves for cryptography, a random large prime, $p$ (or a perfect power of $2$) is chosen, and all the points on the curve are the points satisfying equation where each operation is under modulo $p$. The elliptic curve over the finite field of integers modulo $p$ would look like this:[^3]
+[^pic1]: By Tos [Public domain], <a href="https://commons.wikimedia.org/wiki/File:EllipticCurveCatalog.svg">from Wikimedia Commons</a>
 
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Elliptic_curve_on_Z89.svg" title="Elliptive curve on Z mod 89" numbered="true" >}}
+To use elliptic curves for cryptography, a random large prime, $p$ (or a perfect power of $2$) is chosen, and all the points on the curve are the points satisfying equation where each operation is under modulo $p$. The elliptic curve over the finite field of integers modulo $p$ would look like this:[^pic2]
+
+[^pic2]: By trshaffer [<a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0</a>], <a href="https://commons.wikimedia.org/wiki/File:Elliptic_curve_on_Z89.svg">from Wikimedia Commons</a>
+
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Elliptic_curve_on_Z89.svg" title="Elliptic curve on Z mod 89" numbered="true" >}}
 
 Now we define addition and scalar multiplication among the points on the plane.
 
@@ -53,7 +56,9 @@ Let $B = kA$. Since all these points are over the finite field of integers modul
 
 ## Encryption and Decryption
 
-There are many proposed algorithms for encryption/decryption using elliptic curves. The one I describe here is analogous to ElGamal public key encryption algorithm[^4].
+There are many proposed algorithms for encryption/decryption using elliptic curves. The one I describe here is analogous to ElGamal public key encryption algorithm[^elgamal].
+
+[^elgamal]: [Handouts on ElGamal Algorithm](http://homepages.math.uic.edu/~leon/mcs425-s08/handouts/el-gamal.pdf), MCS 425, Spring 2008, Dept. of Mathematics, Statistics and Computer Science, UIC
 
 Consider that Alice wants to send a message $P_m$ to Bob. Both Alice and Bob decide on the elliptic curve equation, and a point $G$ on the curve called as the generator. The recommended equation and generator pair is given by [Standards of Efficient Cryptography](http://www.secg.org/sec2-v2.pdf). Bob chooses a random number $k_B$ and calculates $k_BG$. The integer $k_B$ forms the private key and $k_BG$ forms the public key.
 
@@ -66,11 +71,7 @@ $$P_m = (P_m + kP_B) - k_B(kG)$$
 
 ## Conclusion
 
-ECC with a private key of size 256 bits offers the same security as RSA used with 3072 bits size key[^5]. Hence ECC is more used when compared to RSA for mobile devices where the size of the key matters. The operation of encryption and decryption is symmetric in case of RSA hence the same can be used for Digital Signatures, but it is not the same in ECC, and hence a different algorithm is used for signing[^6].
+ECC with a private key of size 256 bits offers the same security as RSA used with 3072 bits size key[^1]. Hence ECC is more used when compared to RSA for mobile devices where the size of the key matters. The operation of encryption and decryption is symmetric in case of RSA hence the same can be used for Digital Signatures, but it is not the same in ECC, and hence a different algorithm is used for signing[^2].
 
-[^1]: https://en.wikipedia.org/wiki/Trapdoor_function
-[^2]: By Tos [Public domain], <a href="https://commons.wikimedia.org/wiki/File:EllipticCurveCatalog.svg">from Wikimedia Commons</a>
-[^3]: By trshaffer [<a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0</a>], <a href="https://commons.wikimedia.org/wiki/File:Elliptic_curve_on_Z89.svg">from Wikimedia Commons</a>
-[^4]: http://homepages.math.uic.edu/~leon/mcs425-s08/handouts/el-gamal.pdf
-[^5]: https://www.globalsign.com/en/blog/elliptic-curve-cryptography/
-[^6]: https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm
+[^1]: [Elliptic Curve Cryptography](https://www.globalsign.com/en/blog/elliptic-curve-cryptography/), GlobalSign Blog
+[^2]: [Elliptic Curve Digital Signature Algorithm](https://en.wikipedia.org/wiki/Elliptic_Curve_Digital_Signature_Algorithm), Wikipedia
