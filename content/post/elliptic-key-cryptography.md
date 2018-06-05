@@ -4,18 +4,17 @@ date = 2018-06-02
 draft = false
 
 tags = ["ECC", "cryptography", "security", "encryption", "decryption"]
-summary = "Elliptic key cryptography with smaller private key size can provide better security when compared to RSA. In this post, I describe the encryption/decryption mechanism of ECC."
 
 math = true
 
 [header]
-image = ""
-caption = ""
+image = "ECClines.svg"
+caption = "Elliptic Curve Addition (Image By SuperManu [<a href=\"http://www.gnu.org/copyleft/fdl.html\">GFDL</a> or <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>], <a href=\"https://commons.wikimedia.org/wiki/File:ECClines.svg\">via Wikimedia Commons</a>)"
 preview = true
 
 +++
 
-[**Trapdoor functions**](https://en.wikipedia.org/wiki/Trapdoor_function) or **one-way functions** are essential for the working of public key cryptography or asymmetric cryptography where computing the reverse of the function is not feasible by modern day computers. Multiplication of two primes is easy but factoring a product of two primes is difficult, and this forms the basis of RSA cryptography, the widely used public key cryptography system. If you do not know what RSA is, I suggest reading [this](https://brilliant.org/wiki/rsa-encryption/). In this post, I talk about another asymmetric cryptography system known as Elliptic Curve Cryptography.
+[**Trapdoor functions**](https://en.wikipedia.org/wiki/Trapdoor_function) or **one-way functions** are essential for the working of public key cryptography or asymmetric cryptography where computing the reverse of the function is not feasible by modern day computers. Multiplication of two primes is easy but factoring a product of two primes is difficult, and this forms the basis of RSA cryptography, the widely used public key cryptography system. If you do not know what RSA is, I suggest reading [this](https://brilliant.org/wiki/rsa-encryption/). In this post, I talk about another asymmetric cryptography system known as Elliptic Curve Cryptography.<!--more-->
 
 ## Elliptic Curve Cryptography
 
