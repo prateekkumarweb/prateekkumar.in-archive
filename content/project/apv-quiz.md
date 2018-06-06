@@ -12,4 +12,8 @@ Quizzing Software in C++ (Client) and Golang (Server) as part of Course project
 
 **Links:**
 [Server](https://github.com/prateekkumarweb/apvquiz)
-[Client](https://github.com/prateekkumarweb/apvquiz-client)
+[Client](https://github.com/prateekkumarweb/apvquiz-client) \
+**Contributors:**
+{{% github prateekkumarweb "Prateek Kumar" %}},
+{{% github vbsinha "Vaibhav Sinha" %}},
+Anurag Singh Kushwah

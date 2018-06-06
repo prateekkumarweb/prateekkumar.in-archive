@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 482 482">
+<rect width="482" height="482" fill="#fff"/>
+<g fill="#cde2fe">
+<rect width="482" height="44"/>
+<rect width="44" height="482"/></g>
+<g stroke="#000" stroke-width="482" stroke-dasharray="3,40.55">
+<path d="m 0,241 482,0"/>
+<path d="m 241,0 0,482"/></g>
+<g stroke="#000" stroke-width="30" stroke-linecap="round">
+<path d="m 68,68 43,0"/>
+<path d="m 68,110 43,0"/>
+<path d="m 110,154 131,0"/>
+<path d="m 198,239 0,91"/>
+<path d="m 108,459 92,0"/>
+<path d="m 285,416 43,0"/>
+<path d="m 459,282 0,136"/>
+<path d="m 372,64 0,224"/></g>
+<g font-size="36px" font-family="DejaVu">
+<text x="59" y="36">1</text>
+<text x="102" y="36">2</text>
+<text x="146" y="36">3</text>
+<text x="189" y="36">4</text>
+<text x="233" y="36">5</text>
+<text x="276" y="36">6</text>
+<text x="320" y="36">7</text>
+<text x="362" y="36">8</text>
+<text x="405" y="36">9</text>
+<text x="439" y="36">10</text>
+<text x="12" y="80">A</text>
+<text x="12" y="123">B</text>
+<text x="12" y="167">C</text>
+<text x="12" y="209">D</text>
+<text x="12" y="253">E</text>
+<text x="12" y="298">F</text>
+<text x="12" y="342">G</text>
+<text x="12" y="385">H</text>
+<text x="19" y="428">I</text>
+<text x="17" y="472">J</text></g>
+</svg>

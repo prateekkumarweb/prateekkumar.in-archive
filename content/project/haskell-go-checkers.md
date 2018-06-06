@@ -7,3 +7,7 @@ external_link = "https://github.com/prateekkumarweb/haskell-go-checkers"
 math = false
 +++
 
+**Contributors:**
+{{% github prateekkumarweb "Prateek Kumar" %}},
+{{% github vbsinha "Vaibhav Sinha" %}},
+Anurag Singh Kushwah
