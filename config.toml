@@ -143,8 +143,8 @@ enableGitInfo = true
   weight = 3
 
 [[menu.main]]
-  name = "PoRs"
-  url = "#pors"
+  name = "Work"
+  url = "#work"
   weight = 4
 
 [[menu.main]]
