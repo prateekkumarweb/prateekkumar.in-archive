@@ -132,25 +132,30 @@ enableGitInfo = true
   url = "#about"
   weight = 1
 
+# [[menu.main]]
+#   name = "Publications"
+#   url = "#publications"
+#   weight = 2
+
 [[menu.main]]
   name = "Posts"
   url = "#posts"
-  weight = 2
+  weight = 3
 
 [[menu.main]]
   name = "Projects"
   url = "#projects"
-  weight = 3
+  weight = 4
 
 [[menu.main]]
   name = "Work"
   url = "#work"
-  weight = 4
+  weight = 5
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 5
+  weight = 6
 
 [taxonomies]
   tag = "tags"
@@ -164,3 +169,5 @@ enableGitInfo = true
 [Languages.en]
   languageCode = "en-in"
 
+[Languages.hi]
+  languageCode = "hi-in"

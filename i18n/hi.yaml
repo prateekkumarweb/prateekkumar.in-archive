@@ -1,0 +1,160 @@
+# Navigation
+
+- id: toggle_navigation
+  translation: Toggle navigation
+
+- id: table_of_contents
+  translation: विषय - सूची
+
+# General
+
+- id: related
+  translation: सम्बंधित
+
+- id: minute_read
+  translation: min read
+
+- id: previous
+  translation: पिछला
+
+- id: next
+  translation: अगला
+
+- id: figure
+  translation: "चित्र %d:"
+
+# Buttons
+
+- id: btn_preprint
+  translation: प्रीप्रिंट
+
+- id: btn_pdf
+  translation: पीडीएफ
+
+- id: btn_cite
+  translation: Cite
+
+- id: btn_slides
+  translation: स्लाइड्स
+
+- id: btn_video
+  translation: वीडियो
+
+- id: btn_code
+  translation: कोड
+
+- id: btn_dataset
+  translation: डेटासेट
+
+- id: btn_project
+  translation: प्रोजैक्ट
+
+- id: btn_poster
+  translation: पोस्टर
+
+- id: btn_source
+  translation: Source Document
+
+- id: btn_copy
+  translation: Copy
+
+- id: btn_download
+  translation: डाउनलोड
+
+# About widget
+
+- id: interests
+  translation: रूचियाँ
+
+- id: education
+  translation: शिक्षा
+
+# Publications widget
+
+- id: more_publications
+  translation: More Publications
+
+# Posts widget
+
+- id: continue_reading
+  translation: पढ़ना जारी रखें
+
+- id: more_posts
+  translation: More Posts
+
+# Talks widget
+
+- id: more_talks
+  translation: More Talks
+
+# Publication/Talk details
+
+- id: abstract
+  translation: Abstract
+
+- id: publication
+  translation: Publication
+
+- id: publication_type
+  translation: प्रकार
+
+- id: date
+  translation: दिनांक
+
+- id: last_updated
+  translation: Last updated on
+
+- id: links
+  translation: Links
+
+- id: event
+  translation: Event
+
+- id: location
+  translation: स्थान
+
+# Filtering
+
+- id: filter_by_type
+  translation: प्रकार के अनुसार फ़िल्टर करें
+
+- id: filter_all
+  translation: All
+
+# Project details
+
+- id: open_project_site
+  translation: प्रोजेक्ट साइट पर जाएं
+
+# Default node titles
+
+- id: posts
+  translation: पोस्ट
+
+- id: publications
+  translation: Publications
+
+- id: talks
+  translation: Talks
+
+- id: projects
+  translation: Projects
+
+# Error 404
+
+- id: page_not_found
+  translation: पृष्ठ नहीं मिला
+
+- id: 404_recommendations
+  translation: शायद आप इनमें से किसी एक की तलाश में थे?
+
+# Cookie consent
+
+- id: cookie_message
+  translation: This website uses cookies to ensure you get the best experience on our website.
+
+- id: cookie_dismiss
+  translation: समझ गया!
+
+- id: cookie_learn
+  translation: और अधिक जानें
