@@ -21,12 +21,12 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "B. Tech. (Honors) in Computer Science and Engineering"
-  institution = "Indian Institute of Technology Hyderabad"
-  year = "2015 - Present"
+  course = "कम्प्यूटर विज्ञान एवं अभियांत्रिकी में बी. टेक. (ऑनर्स)"
+  institution = "भारतीय प्रौद्योगिकी संस्थान हैदराबाद"
+  year = "2015 - वर्तमान"
 
 +++
 
-# About me
+# मेरे बारे में
 
 मैं [आईआईटी हैदराबाद](https://iith.ac.in) में [कंप्यूटर साइंस एंड इंजीनियरिंग](https://cse.iith.ac.in) में अपनी स्नातक की डिग्री पूरी कर रहा हूं।

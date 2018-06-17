@@ -80,7 +80,7 @@
   translation: पढ़ना जारी रखें
 
 - id: more_posts
-  translation: More Posts
+  translation: अधिक पोस्ट
 
 # Talks widget
 
@@ -119,7 +119,7 @@
   translation: प्रकार के अनुसार फ़िल्टर करें
 
 - id: filter_all
-  translation: All
+  translation: सभी
 
 # Project details
 
@@ -151,7 +151,7 @@
 # Cookie consent
 
 - id: cookie_message
-  translation: This website uses cookies to ensure you get the best experience on our website.
+  translation: यह वेबसाइट आपको हमारी वेबसाइट पर अच्छा अनुभव प्राप्त होने के लिए कुकीज़ का उपयोग करती है।
 
 - id: cookie_dismiss
   translation: समझ गया!
