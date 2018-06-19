@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "start": "hugo && grunt",
+    "start": "hugo -F && grunt",
     "stop": "rm -r public dist",
     "test": "npm start && npm stop"
   },
