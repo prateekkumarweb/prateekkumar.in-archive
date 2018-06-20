@@ -65,7 +65,7 @@ enableGitInfo = true
   sharing = true
   privacy_pack = true
 
-  custom_css = []
+  custom_css = ["style.css"]
   custom_js  = []
 
   publication_types = [
