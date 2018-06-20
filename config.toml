@@ -132,6 +132,11 @@ enableGitInfo = true
   url = "#about"
   weight = 1
 
+[[languages.hi.menu.main]]
+  name = "होम"
+  url = "#about"
+  weight = 1
+
 [[menu.main]]
   name = "Publications"
   url = "#publications"
@@ -139,6 +144,11 @@ enableGitInfo = true
 
 [[menu.main]]
   name = "Posts"
+  url = "#posts"
+  weight = 3
+
+[[languages.hi.menu.main]]
+  name = "पोस्ट"
   url = "#posts"
   weight = 3
 
@@ -152,8 +162,18 @@ enableGitInfo = true
   url = "#work"
   weight = 5
 
+[[languages.hi.menu.main]]
+  name = "अनुभव"
+  url = "#work"
+  weight = 5
+
 [[menu.main]]
   name = "Contact"
+  url = "#contact"
+  weight = 6
+
+[[languages.hi.menu.main]]
+  name = "संपर्क"
   url = "#contact"
   weight = 6
 
@@ -166,8 +186,15 @@ enableGitInfo = true
 #   Create a [languages.X] block for each language you want, where X is the language ID.
 
 # Configure the English version of the website.
-[Languages.en]
+[languages.en]
   languageCode = "en-in"
 
-[Languages.hi]
+[languages.hi]
   languageCode = "hi-in"
+  title = "प्रतीक कुमार"
+
+  [languages.hi.params]
+    name = "प्रतीक कुमार"
+    role = "स्नातक छात्र"
+    organizations = [ { name = "आईआईटी हैदराबाद", url = "https://iith.ac.in" } ]
+    address = "आईआईटी हैदराबाद, कंदी, संगारेड्डी - 502285, तेलंगाना, भारत"

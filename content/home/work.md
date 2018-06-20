@@ -6,7 +6,7 @@ weight = 60
 +++
 
 #### Internship
-  * **Guide:** [Prof. Reiji Suda](http://olab.is.s.u-tokyo.ac.jp/~reiji/)
+  * **Supervisor:** [Prof. Reiji Suda](http://olab.is.s.u-tokyo.ac.jp/~reiji/)
   * **Institute:** [Univeristy of Tokyo](https://www.u-tokyo.ac.jp/en/)
   * **Period:** May 2018 - July 2018
 
