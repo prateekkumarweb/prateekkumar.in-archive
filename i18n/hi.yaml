@@ -1,7 +1,7 @@
 # Navigation
 
 - id: toggle_navigation
-  translation: Toggle navigation
+  translation: नेविगेशन टॉगल करें
 
 - id: table_of_contents
   translation: विषय - सूची
@@ -12,7 +12,7 @@
   translation: सम्बंधित
 
 - id: minute_read
-  translation: min read
+  translation: मिनट
 
 - id: previous
   translation: पिछला
@@ -32,7 +32,7 @@
   translation: पीडीएफ
 
 - id: btn_cite
-  translation: Cite
+  translation: उद्धृत
 
 - id: btn_slides
   translation: स्लाइड्स
@@ -72,7 +72,7 @@
 # Publications widget
 
 - id: more_publications
-  translation: More Publications
+  translation: अधिक प्रकाशन
 
 # Posts widget
 
@@ -90,10 +90,10 @@
 # Publication/Talk details
 
 - id: abstract
-  translation: Abstract
+  translation: सार
 
 - id: publication
-  translation: Publication
+  translation: प्रकाशन
 
 - id: publication_type
   translation: प्रकार
@@ -105,7 +105,7 @@
   translation: Last updated on
 
 - id: links
-  translation: Links
+  translation: लिंक
 
 - id: event
   translation: Event
@@ -132,7 +132,7 @@
   translation: पोस्ट
 
 - id: publications
-  translation: Publications
+  translation: प्रकाशन
 
 - id: talks
   translation: Talks

@@ -21,7 +21,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "कम्प्यूटर विज्ञान एवं अभियांत्रिकी में बी. टेक. (ऑनर्स)"
+  course = "संगणक विज्ञान एवं अभियांत्रिकी में बी. टेक. (ऑनर्स)"
   institution = "भारतीय प्रौद्योगिकी संस्थान हैदराबाद"
   year = "2015 - वर्तमान"
 

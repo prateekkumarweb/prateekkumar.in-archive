@@ -119,11 +119,6 @@ enableGitInfo = true
     icon_pack = "fa"
     link = "https://www.linkedin.com/in/prateekkumarweb/"
 
-  [[params.social]]
-    icon = "instagram"
-    icon_pack = "fa"
-    link = "https://www.instagram.com/prateekkumarweb/"
-
 [params.menus]
   align_right = true
 
@@ -139,6 +134,11 @@ enableGitInfo = true
 
 [[menu.main]]
   name = "Publications"
+  url = "#publications"
+  weight = 2
+
+[[languages.hi.menu.main]]
+  name = "प्रकाशन"
   url = "#publications"
   weight = 2
 
