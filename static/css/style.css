@@ -4,3 +4,12 @@
   line-height  : .5;
   border-radius : .2rem;
 }
+
+::-webkit-scrollbar {
+  width: .5rem;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #bbb;
+  border-radius: .3rem;
+}
