@@ -36,6 +36,7 @@ enableGitInfo = true
 
   # Your details.
   name = "Prateek Kumar"
+  description = "I am a student currently pursuing my Bachelor's degree in Computer Science and Engineering at IIT Hyderabad."
   role = "Undergraduate student"
   organizations = [ { name = "IIT Hyderabad", url = "https://iith.ac.in" } ]
   gravatar = true
@@ -195,6 +196,7 @@ enableGitInfo = true
 
   [languages.hi.params]
     name = "प्रतीक कुमार"
+    description = "मैं आईआईटी हैदराबाद में कंप्यूटर साइंस एंड इंजीनियरिंग में अपनी स्नातक की डिग्री पूरी कर रहा हूं।"
     role = "स्नातक छात्र"
     organizations = [ { name = "आईआईटी हैदराबाद", url = "https://iith.ac.in" } ]
     address = "आईआईटी हैदराबाद, कंदी, संगारेड्डी - 502285, तेलंगाना, भारत"
