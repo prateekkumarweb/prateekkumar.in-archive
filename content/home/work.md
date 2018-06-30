@@ -29,7 +29,7 @@ weight = 60
   * **Period:** October 2017 - November 2017
 
 #### Web Developer
-  * &eta;vision 2017, Technical fest of IIT Hyderabad
+  * &eta;vision 2017, Techno-management fest of IIT Hyderabad
   * **Period:** June 2016 - January 2017
   * **Links:** [GitHub](https://github.com/nvision-2017)
 
