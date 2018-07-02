@@ -18,7 +18,7 @@ authors = ["Saurabh Joshi", "Prateek Kumar", "Ruben Martins", "Sukrut Rao"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "International Conference on Principles and Practice of Constraint Programming"
+publication = "Principles and Practice of Constraint Programming"
 publication_short = "CP"
 
 # Abstract and optional shortened version.
@@ -44,7 +44,7 @@ tags = ["maxsat", "open-wbo", "approximation"]
 
 # Links (optional).
 url_pdf = ""
-url_preprint = ""
+url_preprint = "https://arxiv.org/abs/1806.07164"
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -56,7 +56,6 @@ url_source = ""
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
-url_custom = [{name = "arXiv", url = "https://arxiv.org/abs/1806.07164"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false
