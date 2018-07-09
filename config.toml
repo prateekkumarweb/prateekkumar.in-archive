@@ -159,13 +159,13 @@ enableGitInfo = true
   weight = 4
 
 [[menu.main]]
-  name = "Work"
-  url = "#work"
+  name = "Experience"
+  url = "#experience"
   weight = 5
 
 [[languages.hi.menu.main]]
   name = "अनुभव"
-  url = "#work"
+  url = "#experience"
   weight = 5
 
 [[menu.main]]

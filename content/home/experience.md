@@ -1,6 +1,6 @@
 +++
 widget = "custom"
-title = "Work"
+title = "Experience"
 active = true
 weight = 60
 +++
