@@ -30,3 +30,4 @@ list_format = 3
 publication_type = "-1"
 +++
 
+[All Publications](/publication/)
