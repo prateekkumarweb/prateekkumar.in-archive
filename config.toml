@@ -130,12 +130,7 @@ enableGitInfo = true
 
 [[menu.main]]
   name = "Publications"
-  url = "#publications"
-  weight = 2
-
-[[languages.hi.menu.main]]
-  name = "प्रकाशन"
-  url = "#publications"
+  url = "#publications_selected"
   weight = 2
 
 [[menu.main]]
