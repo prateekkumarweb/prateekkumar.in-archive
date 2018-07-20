@@ -1,5 +1,5 @@
 +++
-title = "Open Wbo Inc in Maxsat Evaluation 2018"
+title = "Open-WBO-Inc in MaxSAT Evaluation 2018"
 date = 2018-07-12
 draft = false
 
