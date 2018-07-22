@@ -8,7 +8,7 @@ time_start = 2018-07-12T18:45:00+09:00
 time_end = 2018-07-12T19:30:00+09:00
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "In this talk, I present about my research work done during my internship at the University of Tokyo under the guidance of Prof. Reiji Suda."
 abstract_short = ""
 
 # Name of event and optional event URL.
@@ -16,7 +16,7 @@ event = "Research Internship Seminar"
 event_url = ""
 
 # Location of event.
-location = "[Suda Lab, Graduate School of Information Science and Technology, The University of Tokyo](http://olab.is.s.u-tokyo.ac.jp/~reiji/lab-e.html)"
+location = "[Suda Lab, Department of Computer Science, Graduate School of Information Science and Technology, The University of Tokyo](http://olab.is.s.u-tokyo.ac.jp/~reiji/lab-e.html)"
 
 # Is this a selected talk? (true/false)
 selected = false
