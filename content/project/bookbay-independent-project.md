@@ -3,7 +3,7 @@ date = 2016-01-27
 title = "Bookbay"
 image_preview = "bookbay.png"
 summary = "Online portal and android app for books based on courses at IIT Hyderabad"
-tags = ["bookbay", "iith"]
+tags = ["Bookbay", "IITH"]
 math = false
 +++
 

@@ -5,7 +5,7 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["abstract-interpretation", "software verification"]
+tags = ["Abstract interpretation", "Software Verification"]
 
 # Project summary to display on homepage.
 summary = "Abstract interpreter for interval domain for integers using CBMC APIs"

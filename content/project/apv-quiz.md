@@ -3,7 +3,7 @@ date = 2017-03-27
 title = "APV Quiz"
 summary = "Course Project based on concurrency."
 image_preview = "quiz.png"
-tags = ["quiz","concurrency"]
+tags = ["Quiz", "Concurrency"]
 math = false
 +++
 

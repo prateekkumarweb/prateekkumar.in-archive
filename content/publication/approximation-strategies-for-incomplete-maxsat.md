@@ -16,7 +16,7 @@ image_preview = ""
 selected = true
 
 projects = ["open-wbo-inc"]
-tags = ["maxsat", "open-wbo", "approximation"]
+tags = ["MaxSAT", "Open-WBO", "Approximation"]
 
 url_pdf = ""
 url_preprint = "https://arxiv.org/abs/1806.07164"

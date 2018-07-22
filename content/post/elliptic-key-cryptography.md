@@ -3,7 +3,7 @@ title = "Public Key Cryptography using Elliptic Curves"
 date = 2018-06-02
 draft = false
 
-tags = ["ECC", "cryptography", "security", "encryption", "decryption"]
+tags = ["ECC", "Cryptography", "Security", "Encryption", "Decryption"]
 
 math = true
 

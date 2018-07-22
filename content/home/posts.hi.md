@@ -8,7 +8,7 @@ title = "पोस्ट"
 subtitle = "कोई पोस्ट नहीं"
 
 # Order that this section will appear in.
-weight = 40
+weight = 30
 
 # Filter posts by tag.
 #  By default, show all recent posts.

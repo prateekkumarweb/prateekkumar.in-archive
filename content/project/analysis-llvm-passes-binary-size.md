@@ -2,7 +2,7 @@
 date = 2018-04-10
 title = "Analysis of Executable Size Reduction by LLVM passes"
 image_preview = "llvm_logo.png"
-tags = ["llvm","executable size","llvm pass"]
+tags = ["LLVM", "Executable size", "LLVM Pass"]
 external_link = ""
 math = false
 

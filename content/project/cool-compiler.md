@@ -2,7 +2,7 @@
 date = 2017-11-30
 title = "Cool compiler"
 summary = "Compiler for COOL language"
-tags = ["compiler", "cool language"]
+tags = ["Compiler"]
 external_link = "https://github.com/vbsinha/Cool-Compiler"
 math = false
 +++
