@@ -55,7 +55,7 @@ enableGitInfo = true
   zoom = 15
 
   date_format = "Jan 2, 2006"
-  time_format = "3:04 PM"
+  time_format = "3:04 PM MST"
 
   reading_time = true
   comment_count = true
@@ -96,9 +96,9 @@ enableGitInfo = true
     publication_format = 3
 
   [[params.social]]
-    icon = "envelope"
+    icon = "twitter"
     icon_pack = "fa"
-    link = "mailto:prateek@prateekkumar.in"
+    link = "https://twitter.com/prateekkumarweb"
 
   [[params.social]]
     icon = "google-scholar"
