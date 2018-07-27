@@ -10,13 +10,10 @@ weight = 5
 [interests]
   interests = [
     "Constraint Solving",
-    "Software Verification",
-    "Formal methods",
-    "Compiler Optimizations",
+    "Software Verification and Formal methods",
     "High Performance Computing",
-    "Complexity Theory",
-    "Algorithms",
-    "Discrete Mathematics"
+    "Artificial Intelligence",
+    "Theoretical Computer Science"
   ]
 
 # List your qualifications (such as academic degrees).

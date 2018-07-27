@@ -18,8 +18,14 @@ defaultContentLanguageInSubdir = false
 enableGitInfo = true
 
 [outputs]
-  home = ["HTML", "CSS", "RSS"]
+  home = ["HTML", "CSS", "RSS", "search"]
   section = ["HTML", "RSS"]
+
+[outputFormats.search]
+  baseName = "search"
+  isPlainText = true
+  mediaType = "application/json"
+  notAlternative = true
 
 [blackfriday]
   hrefTargetBlank = true
@@ -172,6 +178,13 @@ enableGitInfo = true
   name = "संपर्क"
   url = "#contact"
   weight = 7
+
+[params.search]
+  engine = 0
+  [params.search.algolia]
+    app_id = ""
+    api_key = ""
+    index_name = ""
 
 [taxonomies]
   tag = "tags"
