@@ -5,31 +5,91 @@ active = true
 weight = 60
 +++
 
-#### इंटर्नशिप
-  * **पर्यवेक्षक:** [Prof. Reiji Suda](http://olab.is.s.u-tokyo.ac.jp/~reiji/)
-  * **संस्थान:** [यूनिवर्सिटी ऑफ टोक्यो](https://www.u-tokyo.ac.jp/en/)
-  * **अवधि:** मई 2018 - जुलाई 2018
+<div class="work-metadata my-3">
+  <div class="row">
+      <div class="col-sm-12 col-md-7 font-weight-bold">
+        <h4 class="my-0">अनुसंधान इंटर्न</h4>
+      </div>
+      <div class="col-sm-12 col-md-5 text-md-right">
+        मई 2018 &mdash; जुलाई 2018
+      </div>
+      <div class="col-sm-12 col-md-7">
+        <b>पर्यवेक्षक :</b> <a href="http://olab.is.s.u-tokyo.ac.jp/~reiji/">Prof. Reiji Suda</a>
+      </div>
+      <div class="col-sm-12 col-md-5 text-md-right">
+        <a href="https://www.u-tokyo.ac.jp/en/">टोक्यो विश्वविद्यालय</a>
+      </div>
+  </div>
+</div>
 
-#### शिक्षण सहायक
-  * **कोर्स:** CS2433 Principles of Programming Languages II
-  * **संस्थान:** [आईआईटी हैदराबाद](https://iith.ac.in)
-  * **प्रशिक्षक:** [Dr. Saurabh Joshi](https://www.iith.ac.in/~sbjoshi/)
-  * **अवधि:** जनवरी 2018 - अप्रैल 2018
+<div class="work-metadata my-3">
+  <div class="row">
+      <div class="col-sm-12 col-md-7 font-weight-bold">
+        <h4 class="my-0">शिक्षण सहायक</h4>
+      </div>
+      <div class="col-sm-12 col-md-5 text-md-right">
+        जनवरी 2018 &mdash; अप्रैल 2018
+      </div>
+      <div class="col-sm-12 col-md-7">
+        <b>कोर्स :</b> CS2433 Principles of Programming Languages II<br>
+        <b>प्रशिक्षक :</b> <a href="https://sbjoshi.github.io/">Dr. Saurabh Joshi</a>
+      </div>
+      <div class="col-sm-12 col-md-5 text-md-right">
+        <a href="https://iith.ac.in">आईआईटी हैदराबाद</a>
+      </div>
+  </div>
+</div>
 
-#### शिक्षण सहायक
-  * **कोर्स:** CS2433 Principles of Programming Languages II
-  * **संस्थान:** [आईआईटी भिलाई](https://iitbhilai.ac.in)
-  * **प्रशिक्षक:** [Dr. Ramakrishna Upadrasta](https://www.iith.ac.in/~ramakrishna/)
-  * **अवधि:** जनवरी 2018 - अप्रैल 2018
+<div class="work-metadata my-3">
+  <div class="row">
+      <div class="col-sm-12 col-md-7 font-weight-bold">
+        <h4 class="my-0">शिक्षण सहायक</h4>
+      </div>
+      <div class="col-sm-12 col-md-5 text-md-right">
+        जनवरी 2018 &mdash; अप्रैल 2018
+      </div>
+      <div class="col-sm-12 col-md-7">
+        <b>कोर्स :</b> CS2433 Principles of Programming Languages II<br>
+        <b>प्रशिक्षक :</b> <a href="https://www.iith.ac.in/~ramakrishna/">Dr. Ramakrishna Upadrasta</a>
+      </div>
+      <div class="col-sm-12 col-md-5 text-md-right">
+        <a href="https://iitbhilai.ac.in">आईआईटी भिलाई</a>
+      </div>
+  </div>
+</div>
 
-#### शिक्षण सहायक
-  * **कोर्स:** CS2400 Principles of Programming Languages I
-  * **संस्थान:** [आईआईटी भिलाई](https://iitbhilai.ac.in)
-  * **प्रशिक्षक:** [Dr. Ramakrishna Upadrasta](https://www.iith.ac.in/~ramakrishna/)
-  * **अवधि:** अक्टूबर 2017 - नवंबर 2017
+<div class="work-metadata my-3">
+  <div class="row">
+      <div class="col-sm-12 col-md-7 font-weight-bold">
+        <h4 class="my-0">शिक्षण सहायक</h4>
+      </div>
+      <div class="col-sm-12 col-md-5 text-md-right">
+        अक्टूबर 2017 &mdash; नवंबर 2017
+      </div>
+      <div class="col-sm-12 col-md-7">
+        <b>कोर्स :</b> CS2400 Principles of Programming Languages I<br>
+        <b>प्रशिक्षक :</b> <a href="https://www.iith.ac.in/~ramakrishna/">Dr. Ramakrishna Upadrasta</a>
+      </div>
+      <div class="col-sm-12 col-md-5 text-md-right">
+        <a href="https://iitbhilai.ac.in">आईआईटी भिलाई</a>
+      </div>
+  </div>
+</div>
 
-#### वेब डेवलपर
-  * &eta;vision 2017, Techno-management fest of IIT Hyderabad
-  * **अवधि:** जून 2016 - जनवरी 2017
-  * **लिंक:** [GitHub](https://github.com/nvision-2017)
-
+<div class="work-metadata my-3">
+  <div class="row">
+      <div class="col-sm-12 col-md-7 font-weight-bold">
+        <h4 class="my-0">वेब डेवलपर</h4>
+      </div>
+      <div class="col-sm-12 col-md-5 text-md-right">
+        मई 2016 &mdash; फरवरी 2017
+      </div>
+      <div class="col-sm-12 col-md-7">
+        &eta;vision 2017, Techno-management fest of IIT Hyderabad<br>
+        <a href="https://github.com/nvision-2017">GitHub</a>
+      </div>
+      <div class="col-sm-12 col-md-5 text-md-right">
+        <a href="https://iith.ac.in">आईआईटी हैदराबाद</a>
+      </div>
+  </div>
+</div>
