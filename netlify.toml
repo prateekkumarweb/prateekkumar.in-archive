@@ -1,9 +1,0 @@
-[build]
-    publish = "dist"
-    command = "npm start"
-
-[context.production.environment]
-    HUGO_VERSION = "0.45"
-    HUGO_ENV = "production"
-    HUGO_ENABLEGITINFO = "true"
-    TZ = "Asia/Kolkata"
