@@ -1,5 +1,7 @@
 # Personal website - prateekkumar.in
 
+![Travis CI](https://travis-ci.com/prateekkumarweb/prateekkumar.in.svg?branch=master)
+
 ## Requirements
 
 * [Node and NPM](https://nodejs.org/en/)
@@ -27,6 +29,14 @@ $ firebase login
 $ firebase init
 $ firebase deploy
 ```
+
+To deploy using Travis, first generate a firebase token
+
+```sh
+$ firebase login:ci
+```
+
+Add this token as environmental variable `$FIREBASE_TOKEN` in Travis.
 
 ---
 Copyright &copy; 2018 Prateek Kumar
