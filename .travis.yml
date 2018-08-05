@@ -12,4 +12,5 @@ script:
 deploy:
   provider: script
   skip_cleanup: true
-  script: firebase deploy --token "$FIREBASE_TOKEN"
+  script: firebase deploy --token "$FIREBASE_TOKEN" -m "$TRAVIS_BUILD_NUMBER $TRAVIS_COMMIT"
+
