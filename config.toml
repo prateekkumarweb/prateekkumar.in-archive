@@ -54,8 +54,8 @@ enableGitInfo = true
   # telegram = ""
   keybase = "prateekkumarweb"
 
-  map = 1
-  map_api_key = "AIzaSyBMkUDs2JD9l7aXtrurTennY2rJQJO7roA"
+  map = 0
+  map_api_key = ""
   latitude = "17.597991"
   longitude = "78.127090"
   zoom = 15
