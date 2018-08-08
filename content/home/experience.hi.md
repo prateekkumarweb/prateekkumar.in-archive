@@ -14,7 +14,8 @@ weight = 60
         मई 2018 &mdash; जुलाई 2018
       </div>
       <div class="col-sm-12 col-md-7">
-        <b>पर्यवेक्षक :</b> <a href="http://olab.is.s.u-tokyo.ac.jp/~reiji/">Prof. Reiji Suda</a>
+        <b>पर्यवेक्षक :</b> <a href="http://olab.is.s.u-tokyo.ac.jp/~reiji/">Prof. Reiji Suda</a><br>
+        <b>प्रोग्राम :</b> IJEP Internship Program 2018
       </div>
       <div class="col-sm-12 col-md-5 text-md-right">
         <a href="https://www.u-tokyo.ac.jp/en/">टोक्यो विश्वविद्यालय</a>

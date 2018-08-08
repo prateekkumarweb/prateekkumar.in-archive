@@ -14,7 +14,8 @@ weight = 60
         May 2018 &mdash; July 2018
       </div>
       <div class="col-sm-12 col-md-7">
-        <b>Supervisor :</b> <a href="http://olab.is.s.u-tokyo.ac.jp/~reiji/">Prof. Reiji Suda</a>
+        <b>Supervisor :</b> <a href="http://olab.is.s.u-tokyo.ac.jp/~reiji/">Prof. Reiji Suda</a><br>
+        <b>Program : </b> IJEP Internship Program 2018
       </div>
       <div class="col-sm-12 col-md-5 text-md-right">
         <a href="https://www.u-tokyo.ac.jp/en/">The University of Tokyo</a>
