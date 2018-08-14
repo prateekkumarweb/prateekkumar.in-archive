@@ -10,9 +10,7 @@ external_link = ""
 math = false
 highlight = true
 
-[header]
-image = ""
-caption = ""
+selected = true
 
 +++
 

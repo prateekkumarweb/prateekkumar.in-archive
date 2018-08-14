@@ -8,10 +8,4 @@ image_preview = "mail.png"
 external_link = "https://github.com/prateekkumarweb/mailc"
 math = false
 highlight = true
-
-# Featured image
-[header]
-image = ""
-caption = ""
-
 +++

@@ -5,7 +5,7 @@
 widget = "publications_selected"
 active = true
 
-title = "Selected Publications"
+title = "Publications"
 subtitle = ""
 
 # Order that this section will appear in.

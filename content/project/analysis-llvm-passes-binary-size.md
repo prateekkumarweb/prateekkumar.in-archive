@@ -1,14 +1,12 @@
 +++
 date = 2018-04-10
 title = "Analysis of Executable Size Reduction by LLVM passes"
+summary = "Analysis of impact of LLVM Passes on executable size and compile time on SPEC 2017 CPU Benchamrk."
 image_preview = "llvm_logo.png"
 tags = ["LLVM", "Executable size", "LLVM Pass"]
 external_link = ""
 math = false
-
-# [header]
-# image = ""
-# caption = "LLVM Compiler toolchain"
+selected = true
 +++
 
 I worked in a team as part of Course Project (Compiler Engineering) to analyze
