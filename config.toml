@@ -69,8 +69,10 @@ enableGitInfo = true
 
   math = false
   highlight = false
+  highlight_languages = ["bash", "cpp"]
+  highlight_style = "github"
   sharing = true
-  privacy_pack = true
+  privacy_pack = false
 
   custom_css = ["style.css"]
   custom_js  = []
@@ -180,11 +182,12 @@ enableGitInfo = true
   weight = 7
 
 [params.search]
-  engine = 0
+  engine = 1
   [params.search.algolia]
     app_id = ""
     api_key = ""
     index_name = ""
+    show_logo = false
 
 [taxonomies]
   tag = "tags"

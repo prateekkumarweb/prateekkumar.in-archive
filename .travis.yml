@@ -1,6 +1,8 @@
 language: node_js
 sudo: true
 dist: trusty
+before_install:
+- export TZ=Asia/Kolkata
 install:
 - wget https://github.com/gohugoio/hugo/releases/download/v0.46/hugo_0.46_Linux-64bit.deb
 - sudo dpkg -i *.deb
@@ -13,4 +15,3 @@ deploy:
   provider: script
   skip_cleanup: true
   script: firebase deploy --token "$FIREBASE_TOKEN" -m "$TRAVIS_BUILD_NUMBER $TRAVIS_COMMIT"
-
