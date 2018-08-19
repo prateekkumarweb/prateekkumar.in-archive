@@ -5,7 +5,6 @@ summary = "Analysis of impact of LLVM Passes on executable size and compile time
 image_preview = "llvm_logo.png"
 tags = ["LLVM", "Executable size", "LLVM Pass"]
 external_link = ""
-math = false
 selected = true
 +++
 

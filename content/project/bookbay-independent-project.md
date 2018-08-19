@@ -4,7 +4,6 @@ title = "Bookbay"
 image_preview = "bookbay.png"
 summary = "Online portal and android app for books based on courses at IIT Hyderabad"
 tags = ["Bookbay", "IITH"]
-math = false
 +++
 
 As part of our independent project in first semester at IIT Hyderbad, we built

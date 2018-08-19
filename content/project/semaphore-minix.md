@@ -5,6 +5,5 @@ summary = "Semaphore implementation in Minix 3"
 tags = ["Minix", "Semaphore"]
 image_preview = "minix.png"
 external_link = "https://github.com/prateekkumarweb/minix-semaphore"
-math = false
 +++
 

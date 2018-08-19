@@ -1,7 +1,5 @@
 +++
 title = "Projects"
-math = false
-highlight = false
 
 list_format = 1
 

@@ -6,8 +6,6 @@ draft = false
 tags = ["GNU Readline", "bash", "C++"]
 categories = ["Dev Tools"]
 
-highlight = true
-
 +++
 
 GNU Readline is an easy-to-use library for autocompleting using Tab key and bash like history using up/down array keys for interactive programs with command line interface.<!--more-->
@@ -220,7 +218,6 @@ $ ./program
 
 * [GNU Readline documentation on MIT website](http://web.mit.edu/gnu/doc/html/rlman_2.html)
 * Man pages can be accessed using following command.
-
   ```bash
   $ man readline
   ```

@@ -4,7 +4,6 @@ title = "Cool compiler"
 summary = "Compiler for COOL language"
 tags = ["Compiler"]
 external_link = "https://github.com/vbsinha/Cool-Compiler"
-math = false
 +++
 
 As part of Compilers course, I built a compiler for

@@ -5,7 +5,6 @@ summary = "Go and Checkers in Haskell language"
 image_preview = "go_checkers.jpg"
 tags = ["Haskell", "Go game", "Checkers", "Functional"]
 external_link = "https://github.com/prateekkumarweb/haskell-go-checkers"
-math = false
 +++
 
 **Contributors:**

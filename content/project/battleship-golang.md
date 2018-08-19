@@ -5,7 +5,6 @@ summary = "Battleship game built in Golang"
 tags = ["Battleship", "Golang"]
 image_preview = "battleship.svg"
 external_link = "https://github.com/prateekkumarweb/Go-Battleship"
-math = false
 selected = true
 +++
 

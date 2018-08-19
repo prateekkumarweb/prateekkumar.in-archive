@@ -17,6 +17,9 @@ defaultContentLanguageInSubdir = false
 
 enableGitInfo = true
 
+pygmentsCodeFences = true
+pygmentsStyle = "friendly"
+
 [outputs]
   home = ["HTML", "CSS", "RSS", "search"]
   section = ["HTML", "RSS"]
@@ -69,8 +72,6 @@ enableGitInfo = true
 
   math = false
   highlight = false
-  highlight_languages = ["bash", "cpp"]
-  highlight_style = "github"
   sharing = true
   privacy_pack = false
 

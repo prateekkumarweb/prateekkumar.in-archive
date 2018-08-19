@@ -1,7 +1,5 @@
 +++
 title = "Publications"
-math = false
-highlight = false
 
 # List format.
 #   0 = Simple

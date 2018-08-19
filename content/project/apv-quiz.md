@@ -4,7 +4,6 @@ title = "APV Quiz"
 summary = "Course Project based on concurrency."
 image_preview = "quiz.png"
 tags = ["Quiz", "Concurrency"]
-math = false
 +++
 
 Quizzing Software in C++ (Client) and Golang (Server) as part of Course project

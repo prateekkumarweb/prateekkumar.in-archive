@@ -28,9 +28,6 @@ url_video = ""
 url_poster = ""
 url_source = ""
 
-math = false
-highlight = true
-
 [header]
 image = ""
 caption = ""
