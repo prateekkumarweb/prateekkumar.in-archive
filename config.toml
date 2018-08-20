@@ -124,6 +124,11 @@ pygmentsStyle = "friendly"
     icon_pack = "fa"
     link = "https://www.linkedin.com/in/prateekkumarweb/"
 
+  [[params.social]]
+    icon = "researchgate"
+    icon_pack = "ai"
+    link = "https://www.researchgate.net/profile/Prateek_Kumar34"
+
 [params.menus]
   align_right = true
 
