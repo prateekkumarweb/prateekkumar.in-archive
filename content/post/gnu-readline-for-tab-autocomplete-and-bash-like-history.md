@@ -10,7 +10,7 @@ categories = ["Dev Tools"]
 
 GNU Readline is an easy-to-use library for autocompleting using Tab key and bash like history using up/down array keys for interactive programs with command line interface.<!--more-->
 
-In this post, we will build an interactive program in c++ that uses GNU Readline library.
+In this post, we will build an interactive program in C++ that uses GNU Readline library.
 The program will take input from the user a number name and output the corresponding number.
 For, e.g. if the user enters `one`, the program will output `1`.
 The program will prompt for input again and again until the user quits by pressing `Ctrl+D`.
