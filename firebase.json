@@ -5,6 +5,15 @@
       "firebase.json",
       "**/.*",
       "**/node_modules/**"
-    ]
+    ],
+    "redirects": [{
+      "source": "https://prateekkumar-in-1524596450586.firebaseapp.com/*",
+      "destination": "https://prateekkumar.in/",
+      "type": 301
+    }, {
+      "source": "/2018/06/02/elliptic-key-cryptography/",
+      "destination": "/2018/06/02/elliptic-curve-cryptography/",
+      "type": 301
+    }]
   }
 }
