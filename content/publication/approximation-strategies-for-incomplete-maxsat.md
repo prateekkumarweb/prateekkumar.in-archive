@@ -1,6 +1,6 @@
 +++
 title = "Approximation Strategies for Incomplete MaxSAT"
-date = 2018-08-27
+date = 2018-08-23
 draft = false
 
 authors = ["Saurabh Joshi", "Prateek Kumar", "Ruben Martins", "Sukrut Rao"]
@@ -18,7 +18,7 @@ selected = true
 projects = ["open-wbo-inc"]
 tags = ["MaxSAT", "Open-WBO", "Approximation"]
 
-url_pdf = ""
+url_pdf = "https://link.springer.com/content/pdf/10.1007/978-3-319-98334-9_15.pdf"
 url_preprint = "https://arxiv.org/abs/1806.07164"
 url_code = ""
 url_dataset = ""
