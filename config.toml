@@ -21,14 +21,8 @@ pygmentsCodeFences = true
 pygmentsStyle = "friendly"
 
 [outputs]
-  home = ["HTML", "CSS", "RSS", "search"]
+  home = ["HTML", "CSS", "RSS", "JSON"]
   section = ["HTML", "RSS"]
-
-[outputFormats.search]
-  baseName = "search"
-  isPlainText = true
-  mediaType = "application/json"
-  notAlternative = true
 
 [blackfriday]
   hrefTargetBlank = true
@@ -43,7 +37,6 @@ pygmentsStyle = "friendly"
   color_theme = "default"
   font = "default"
 
-  # Your details.
   name = "Prateek Kumar"
   description = "I am a student currently pursuing my Bachelor's degree in Computer Science and Engineering at IIT Hyderabad."
   role = "Undergraduate student"
@@ -51,10 +44,6 @@ pygmentsStyle = "friendly"
   gravatar = true
   email = "prateek@prateekkumar.in"
   address = "IIT Hyderabad, Kandi - 502 285, Sangareddy, Telangana, INDIA"
-  # office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  # phone = "888 888 88 88"
-  # skype = "echo123"
-  # telegram = ""
   keybase = "prateekkumarweb"
 
   map = 0
@@ -106,7 +95,7 @@ pygmentsStyle = "friendly"
 
   [[params.social]]
     icon = "twitter"
-    icon_pack = "fa"
+    icon_pack = "fab"
     link = "https://twitter.com/prateekkumarweb"
 
   [[params.social]]
@@ -116,12 +105,12 @@ pygmentsStyle = "friendly"
 
   [[params.social]]
     icon = "github"
-    icon_pack = "fa"
+    icon_pack = "fab"
     link = "https://github.com/prateekkumarweb"
 
   [[params.social]]
     icon = "linkedin"
-    icon_pack = "fa"
+    icon_pack = "fab"
     link = "https://www.linkedin.com/in/prateekkumarweb/"
 
   [[params.social]]
@@ -200,10 +189,6 @@ pygmentsStyle = "friendly"
   category = "categories"
   publication_type = "publication_types"
 
-# Languages
-#   Create a [languages.X] block for each language you want, where X is the language ID.
-
-# Configure the English version of the website.
 [languages.en]
   languageCode = "en-in"
 
