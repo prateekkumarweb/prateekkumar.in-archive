@@ -14,8 +14,8 @@ weight = 60
         May 2018 &mdash; July 2018
       </div>
       <div class="col-sm-12 col-md-7">
-        <b>Supervisor :</b> <a href="http://olab.is.s.u-tokyo.ac.jp/~reiji/">Prof. Reiji Suda</a><br>
-        <b>Program : </b> IJEP Internship Program 2018
+        <b>Supervisor:</b> <a href="http://olab.is.s.u-tokyo.ac.jp/~reiji/">Prof. Reiji Suda</a><br>
+        <b>Program:</b> IJEP Internship Program 2018
       </div>
       <div class="col-sm-12 col-md-5 text-md-right">
         <a href="https://www.u-tokyo.ac.jp/en/">The University of Tokyo</a>
@@ -32,8 +32,8 @@ weight = 60
         January 2018 &mdash; April 2018
       </div>
       <div class="col-sm-12 col-md-7">
-        <b>Course :</b> CS2433 Principles of Programming Languages II<br>
-        <b>Instructor :</b> <a href="https://sbjoshi.github.io/">Dr. Saurabh Joshi</a>
+        <b>Course:</b> CS2433 Principles of Programming Languages II<br>
+        <b>Instructor:</b> <a href="https://sbjoshi.github.io/">Dr. Saurabh Joshi</a>
       </div>
       <div class="col-sm-12 col-md-5 text-md-right">
         <a href="https://iith.ac.in">IIT Hyderabad</a>
@@ -50,8 +50,8 @@ weight = 60
         January 2018 &mdash; April 2018
       </div>
       <div class="col-sm-12 col-md-7">
-        <b>Course :</b> CS2433 Principles of Programming Languages II<br>
-        <b>Instructor :</b> <a href="https://www.iith.ac.in/~ramakrishna/">Dr. Ramakrishna Upadrasta</a>
+        <b>Course:</b> CS2433 Principles of Programming Languages II<br>
+        <b>Instructor:</b> <a href="https://www.iith.ac.in/~ramakrishna/">Dr. Ramakrishna Upadrasta</a>
       </div>
       <div class="col-sm-12 col-md-5 text-md-right">
         <a href="https://iitbhilai.ac.in">IIT Bhilai</a>
@@ -68,8 +68,8 @@ weight = 60
         October 2017 &mdash; November 2017
       </div>
       <div class="col-sm-12 col-md-7">
-        <b>Course :</b> CS2400 Principles of Programming Languages I<br>
-        <b>Instructor :</b> <a href="https://www.iith.ac.in/~ramakrishna/">Dr. Ramakrishna Upadrasta</a>
+        <b>Course:</b> CS2400 Principles of Programming Languages I<br>
+        <b>Instructor:</b> <a href="https://www.iith.ac.in/~ramakrishna/">Dr. Ramakrishna Upadrasta</a>
       </div>
       <div class="col-sm-12 col-md-5 text-md-right">
         <a href="https://iitbhilai.ac.in">IIT Bhilai</a>
