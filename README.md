@@ -4,20 +4,19 @@
 
 ## Requirements
 
-* [Node and NPM](https://nodejs.org/en/)
 * [Hugo](https://gohugo.io/)
 
 ## Run
 
 * To start the server in development mode
   ```sh
-  $ hugo server
+  $ hugo server -F
   ```
 * To generate production site
   ```sh
-  $ npm start
+  $ hugo -F --minify
   ```
-  The site is generated in `dist` folder.
+  The site is generated in `public` folder.
 
 ## Deplotment
 

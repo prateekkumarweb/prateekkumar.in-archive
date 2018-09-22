@@ -1,10 +1,9 @@
 {
   "hosting": {
-    "public": "dist",
+    "public": "public",
     "ignore": [
       "firebase.json",
-      "**/.*",
-      "**/node_modules/**"
+      "**/.*"
     ],
     "redirects": [{
       "source": "https://prateekkumar-in-1524596450586.firebaseapp.com/*",
