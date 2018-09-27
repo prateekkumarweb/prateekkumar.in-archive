@@ -126,11 +126,11 @@ The University of Tokyo, Hongo campus is a beautiful place. The campus has some 
 
 ## Internship
 
-The process to apply is simple. The application starts in November, and the selected students are notified by February. The IJEP Secretariat sends the required documents for the visa application. They also booked flight tickets for us.
+The process to apply is simple. The application starts in November, and the selected students are notified by February. The IJEP Secretariat sends the required documents for the visa application. They also book the flight tickets.
 
 I was interning under Prof. Reiji Suda at Suda Lab, Department of Computer Science, Graduate School of Information Science and Technology. My project was based on High-Performance Computing, and I am continuing to work on the same after coming back to IIT Hyderabad.
 
-The IJEP gave an amount of 240,000 yen as the scholarship (excluding flight tickets). The scholarship is not provided at once but in three instalments. The first installment was given after around 20 days of our stay. IJEP also took us to a plant of DMG Mori at Nagoya. I got to travel on the Shinkansen (bullet train). The IJEP were kind to pay for the entire trip to Nagoya. Later, we visited TCS Office in Tokyo. The IJEP also organised a traditional Japanese Tea ceremony (Green tea with sweets).
+The IJEP gave an amount of 240,000 yen as the scholarship (excluding flight tickets). The scholarship is not provided at once but in three instalments. The first one was given after around 20 days of our stay. IJEP also took us to a plant of DMG Mori at Nagoya. I got to travel on the Shinkansen (bullet train). The IJEP were kind to pay for the entire trip to Nagoya. Later, we visited TCS Office in Tokyo. The IJEP also organised a traditional Japanese Tea ceremony (Green tea with sweets).
 
 {{< gallery album="3" >}}
 
