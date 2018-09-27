@@ -122,7 +122,7 @@ I was interning at the University of Tokyo during the summer after the 3rd year 
 
 ## The University of Tokyo
 
-The University of Tokyo, Hongo campus is a beautiful place. The campus has some of the oldest yet modern looking buildings. There is a small pond (Sanshiro pond) inside the university campus. It has two co-op stores to buy souvenirs. It has a Lawson store and Lawson 100 (Here you get most of the items for 108 yen) inside. Outside the university, there are a few Indian restaurants (especially needed if you are a vegetarian). There is also University Chuo dining hall if you want to get food at an affordable price (I ate here only once during my stay). The University has a big library. There is Shirucafe (you can get free coffee here) for international students outside the University.
+The University of Tokyo, Hongo campus is a beautiful place. The campus has some of the oldest yet modern looking buildings. There is a small pond (Sanshiro pond) inside the university campus. There are two co-op stores to buy souvenirs. There is a Lawson store and a Lawson 100 (Here you get most of the items for 108 yen) inside. Outside the university, there are a few Indian restaurants (especially needed if you are a vegetarian). There is also University Chuo dining hall if you want to get food at an affordable price (I ate here only once during my stay). The University has a big library. There is Shirucafe (you can get free coffee here) for international students outside the University.
 
 ## Internship
 
