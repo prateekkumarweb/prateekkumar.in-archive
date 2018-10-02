@@ -143,10 +143,10 @@ pygmentsStyle = "friendly"
   url = "#posts"
   weight = 3
 
-[[languages.hi.menu.main]]
-  name = "पोस्ट"
-  url = "#posts"
-  weight = 3
+# [[languages.hi.menu.main]]
+#   name = "पोस्ट"
+#   url = "#posts"
+#   weight = 3
 
 [[menu.main]]
   name = "Talks"

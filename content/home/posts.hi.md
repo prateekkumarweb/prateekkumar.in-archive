@@ -2,7 +2,7 @@
 # Recent Posts widget.
 # This widget displays recent posts from `content/post/`.
 widget = "posts"
-active = true
+active = false
 
 title = "पोस्ट"
 subtitle = "कोई पोस्ट नहीं"
