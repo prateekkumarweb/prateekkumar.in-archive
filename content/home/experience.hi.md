@@ -1,96 +1,74 @@
 +++
-widget = "custom"
-title = "अनुभव"
+widget = "experience"  # Do not modify this line!
 active = true
+title = "अनुभव"
+subtitle = ""
 weight = 60
+
+date_format = "January 2006"
+
+# Experiences.
+#   Add/remove as many `[[experience]]` blocks below as you like.
+#   Required fields are `title`, `company`, and `date_start`.
+#   Leave `date_end` empty if it's your current employer.
+#   Begin/end multi-line descriptions with 3 quotes `"""`.
+[[experience]]
+  title = "अनुसंधान इंटर्न"
+  company = "टोक्यो विश्वविद्यालय"
+  company_url = "https://www.u-tokyo.ac.jp/en/"
+  location = "टोक्यो, जापान"
+  date_start = "2018-05-01"
+  date_end = "2018-07-31"
+  description = """
+  IJEP Internship Program 2018<br>
+  **पर्यवेक्षक:** [Prof. Reiji Suda](http://olab.is.s.u-tokyo.ac.jp/~reiji/).
+  """
+
+[[experience]]
+  title = "शिक्षण सहायक"
+  company = "आईआईटी हैदराबाद"
+  company_url = "https://iith.ac.in"
+  location = "संगारेड्डी, तेलंगाना, भारत"
+  date_start = "2018-01-01"
+  date_end = "2018-04-30"
+  description = """
+  **कोर्स:** CS2433 Principles of Programming Languages II<br>
+  **प्रशिक्षक:** [Dr. Saurabh Joshi](https://sbjoshi.github.io/)
+  """
+
+[[experience]]
+  title = "शिक्षण सहायक"
+  company = "आईआईटी भिलाई"
+  company_url = "https://iitbhilai.ac.in"
+  location = "संगारेड्डी, तेलंगाना, भारत"
+  date_start = "2018-01-01"
+  date_end = "2018-04-30"
+  description = """
+  **कोर्स:** CS2433 Principles of Programming Languages II<br>
+  **प्रशिक्षक:** [Dr. Ramakrishna Upadrasta](https://www.iith.ac.in/~ramakrishna/)
+  """
+
+[[experience]]
+  title = "शिक्षण सहायक"
+  company = "आईआईटी भिलाई"
+  company_url = "https://iitbhilai.ac.in"
+  location = "संगारेड्डी, तेलंगाना, भारत"
+  date_start = "2017-10-01"
+  date_end = "2017-11-30"
+  description = """
+  **कोर्स:** CS2400 Principles of Programming Languages I<br>
+  **प्रशिक्षक:** [Dr. Ramakrishna Upadrasta](https://www.iith.ac.in/~ramakrishna/)
+  """
+
+[[experience]]
+  title = "वेब डेवलपर"
+  company = "&eta;vision 2017, Techno-management fest of IIT Hyderabad"
+  company_url = "https://github.com/nvision-2017"
+  location = "संगारेड्डी, तेलंगाना, भारत"
+  date_start = "2016-05-01"
+  date_end = "2017-02-28"
+  description = """
+  **GitHub:** [https://github.com/nvision-2017](https://github.com/nvision-2017)
+  """
+
 +++
-
-<div class="work-metadata my-3">
-  <div class="row">
-      <div class="col-sm-12 col-md-7 font-weight-bold">
-        <h4 class="my-0">अनुसंधान इंटर्न</h4>
-      </div>
-      <div class="col-sm-12 col-md-5 text-md-right">
-        मई 2018 &mdash; जुलाई 2018
-      </div>
-      <div class="col-sm-12 col-md-7">
-        <b>पर्यवेक्षक:</b> <a href="http://olab.is.s.u-tokyo.ac.jp/~reiji/">Prof. Reiji Suda</a><br>
-        <b>प्रोग्राम:</b> IJEP Internship Program 2018
-      </div>
-      <div class="col-sm-12 col-md-5 text-md-right">
-        <a href="https://www.u-tokyo.ac.jp/en/">टोक्यो विश्वविद्यालय</a>
-      </div>
-  </div>
-</div>
-
-<div class="work-metadata my-3">
-  <div class="row">
-      <div class="col-sm-12 col-md-7 font-weight-bold">
-        <h4 class="my-0">शिक्षण सहायक</h4>
-      </div>
-      <div class="col-sm-12 col-md-5 text-md-right">
-        जनवरी 2018 &mdash; अप्रैल 2018
-      </div>
-      <div class="col-sm-12 col-md-7">
-        <b>कोर्स:</b> CS2433 Principles of Programming Languages II<br>
-        <b>प्रशिक्षक:</b> <a href="https://sbjoshi.github.io/">Dr. Saurabh Joshi</a>
-      </div>
-      <div class="col-sm-12 col-md-5 text-md-right">
-        <a href="https://iith.ac.in">आईआईटी हैदराबाद</a>
-      </div>
-  </div>
-</div>
-
-<div class="work-metadata my-3">
-  <div class="row">
-      <div class="col-sm-12 col-md-7 font-weight-bold">
-        <h4 class="my-0">शिक्षण सहायक</h4>
-      </div>
-      <div class="col-sm-12 col-md-5 text-md-right">
-        जनवरी 2018 &mdash; अप्रैल 2018
-      </div>
-      <div class="col-sm-12 col-md-7">
-        <b>कोर्स:</b> CS2433 Principles of Programming Languages II<br>
-        <b>प्रशिक्षक:</b> <a href="https://www.iith.ac.in/~ramakrishna/">Dr. Ramakrishna Upadrasta</a>
-      </div>
-      <div class="col-sm-12 col-md-5 text-md-right">
-        <a href="https://iitbhilai.ac.in">आईआईटी भिलाई</a>
-      </div>
-  </div>
-</div>
-
-<div class="work-metadata my-3">
-  <div class="row">
-      <div class="col-sm-12 col-md-7 font-weight-bold">
-        <h4 class="my-0">शिक्षण सहायक</h4>
-      </div>
-      <div class="col-sm-12 col-md-5 text-md-right">
-        अक्टूबर 2017 &mdash; नवंबर 2017
-      </div>
-      <div class="col-sm-12 col-md-7">
-        <b>कोर्स:</b> CS2400 Principles of Programming Languages I<br>
-        <b>प्रशिक्षक:</b> <a href="https://www.iith.ac.in/~ramakrishna/">Dr. Ramakrishna Upadrasta</a>
-      </div>
-      <div class="col-sm-12 col-md-5 text-md-right">
-        <a href="https://iitbhilai.ac.in">आईआईटी भिलाई</a>
-      </div>
-  </div>
-</div>
-
-<div class="work-metadata my-3">
-  <div class="row">
-      <div class="col-sm-12 col-md-7 font-weight-bold">
-        <h4 class="my-0">वेब डेवलपर</h4>
-      </div>
-      <div class="col-sm-12 col-md-5 text-md-right">
-        मई 2016 &mdash; फरवरी 2017
-      </div>
-      <div class="col-sm-12 col-md-7">
-        &eta;vision 2017, Techno-management fest of IIT Hyderabad<br>
-        <a href="https://github.com/nvision-2017">GitHub</a>
-      </div>
-      <div class="col-sm-12 col-md-5 text-md-right">
-        <a href="https://iith.ac.in">आईआईटी हैदराबाद</a>
-      </div>
-  </div>
-</div>
