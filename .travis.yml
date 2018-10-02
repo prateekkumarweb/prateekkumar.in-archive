@@ -11,7 +11,7 @@ install:
 - rm *.deb
 - npm install -g firebase-tools
 script:
-- hugo -F --minify
+- hugo -F
 deploy:
   provider: script
   skip_cleanup: true
