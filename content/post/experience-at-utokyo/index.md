@@ -7,9 +7,7 @@ tags = ["UTokyo", "Internship"]
 categories = []
 
 [header]
-image = "internship/uot.jpg"
 caption = "The University of Tokyo"
-preview = true
 
 [[gallery_item]]
 album = "1"

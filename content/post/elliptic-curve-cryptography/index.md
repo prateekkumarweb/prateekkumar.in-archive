@@ -8,9 +8,7 @@ tags = ["ECC", "Cryptography", "Security", "Encryption", "Decryption"]
 math = true
 
 [header]
-image = "ECClines.svg"
 caption = "Elliptic Curve Addition (Image By SuperManu [<a href=\"http://www.gnu.org/copyleft/fdl.html\">GFDL</a> or <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>], <a href=\"https://commons.wikimedia.org/wiki/File:ECClines.svg\">via Wikimedia Commons</a>)"
-preview = true
 
 +++
 
