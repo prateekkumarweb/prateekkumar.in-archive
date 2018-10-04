@@ -6,6 +6,12 @@
 - id: table_of_contents
   translation: विषय - सूची
 
+- id: on_this_page
+  translation: इस पृष्ठ पर
+
+- id: back_to_top
+  translation: ऊपर जाएँ
+
 # General
 
 - id: related
@@ -53,10 +59,10 @@
   translation: पोस्टर
 
 - id: btn_source
-  translation: Source Document
+  translation: स्रोत
 
 - id: btn_copy
-  translation: Copy
+  translation: कॉपी करें
 
 - id: btn_download
   translation: डाउनलोड
@@ -69,10 +75,15 @@
 - id: education
   translation: शिक्षा
 
+# Experience widget
+
+- id: present
+  translation: वर्तमान
+
 # Publications widget
 
 - id: more_publications
-  translation: अधिक प्रकाशन
+  translation: और प्रकाशन
 
 # Posts widget
 
@@ -80,12 +91,12 @@
   translation: पढ़ना जारी रखें
 
 - id: more_posts
-  translation: अधिक पोस्ट
+  translation: और पोस्ट
 
 # Talks widget
 
 - id: more_talks
-  translation: More Talks
+  translation: और संभाषण
 
 # Publication/Talk details
 
@@ -102,13 +113,13 @@
   translation: दिनांक
 
 - id: last_updated
-  translation: Last updated on
+  translation: आखिरी बार अपडेट किया गया
 
 - id: links
   translation: लिंक
 
 - id: event
-  translation: Event
+  translation: प्रसंग
 
 - id: location
   translation: स्थान
@@ -120,6 +131,11 @@
 
 - id: filter_all
   translation: सभी
+
+# Projects widget
+
+- id: more_projects
+  translation: और प्रोजैक्ट
 
 # Project details
 
@@ -135,10 +151,21 @@
   translation: प्रकाशन
 
 - id: talks
-  translation: Talks
+  translation: संभाषण
 
 - id: projects
-  translation: Projects
+  translation: प्रोजैक्ट
+
+# Search
+
+- id: search_placeholder
+  translation: खोजें...
+
+- id: search_results
+  translation: खोज परिणाम
+
+- id: search_no_results
+  translation: कोई परिणाम नहीं मिला
 
 # Error 404
 
