@@ -154,3 +154,5 @@ There are many places to see in Tokyo. I spent most of my weekends travelling an
 
 Overall I had a wonderful experience during my internship, and I would recommend everyone to visit Japan.
 If you have anything to ask or say, feel free to ping me on [facebook](https://www.facebook.com/prateekkumarweb).
+
+*Originally posted at [IJEP Internship 2018 - Student's Voice](http://ijep.t.u-tokyo.ac.jp/2018/10/05/ijep-internship-program-2018-prateek-kumar-iithyderabad/).*
