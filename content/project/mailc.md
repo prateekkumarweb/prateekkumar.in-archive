@@ -7,3 +7,7 @@ summary = "IMAP and SMTP Mail client implementation in C++"
 image_preview = "mail.png"
 external_link = "https://github.com/prateekkumarweb/mailc"
 +++
+
+**Contributors:**
+{{% github prateek %}},
+{{% github vbsinha %}}

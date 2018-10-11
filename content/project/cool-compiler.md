@@ -10,3 +10,6 @@ As part of Compilers course, I built a compiler for
 [Cool](https://en.wikipedia.org/wiki/Cool_%28programming_language%29)
 programming language that emits LLVM IR.
 
+**Contributors:**
+{{% github prateek %}},
+{{% github vbsinha %}}

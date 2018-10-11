@@ -7,3 +7,6 @@ external_link = "https://github.com/GoodDeeds/Timetabler"
 selected = true
 +++
 
+**Contributors:**
+{{% github prateek %}},
+{{% github sukrut %}}

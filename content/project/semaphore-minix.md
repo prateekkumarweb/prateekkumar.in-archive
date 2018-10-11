@@ -7,3 +7,5 @@ image_preview = "minix.png"
 external_link = "https://github.com/prateekkumarweb/minix-semaphore"
 +++
 
+**Contributors:**
+{{% github prateek %}}

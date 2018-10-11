@@ -3,7 +3,7 @@ title = "Open-WBO-Inc in MaxSAT Evaluation 2018"
 date = 2018-07-12
 draft = false
 
-authors = ["Saurabh Joshi", "Prateek Kumar", "Vasco Manquinho", "Ruben Martins", "Alexander Nadel", "Sukrut Rao"]
+authors = ["@sbjoshi", "@prateek", "Vasco Manquinho", "@ruben", "Alexander Nadel", "@sukrut"]
 publication_types = ["4"]
 
 publication = "MaxSAT Evaluation"

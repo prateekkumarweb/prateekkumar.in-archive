@@ -3,7 +3,7 @@ title = "Approximation Strategies for Incomplete MaxSAT"
 date = 2018-08-23
 draft = false
 
-authors = ["Saurabh Joshi", "Prateek Kumar", "Ruben Martins", "Sukrut Rao"]
+authors = ["@sbjoshi", "@prateek", "@ruben", "@sukrut"]
 publication_types = ["1"]
 
 publication = "Principles and Practice of Constraint Programming"

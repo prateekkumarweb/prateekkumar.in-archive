@@ -45,4 +45,3 @@ given only the sizes obtained by the individual groups.
 
 **Update:** Due to unavoidable reasons we could not present the talk at
 EuroLLVM 2018.
-

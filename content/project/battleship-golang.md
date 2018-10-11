@@ -8,3 +8,5 @@ external_link = "https://github.com/prateekkumarweb/Go-Battleship"
 selected = true
 +++
 
+**Contributors:**
+{{% github prateek %}}
