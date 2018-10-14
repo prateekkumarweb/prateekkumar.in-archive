@@ -24,6 +24,18 @@ date_format = "January 2006"
   company = "IIT Hyderabad"
   company_url = "https://iith.ac.in"
   location = "Sangareddy, Telangana, India"
+  date_start = "2018-10-01"
+  date_end = "2018-11-30"
+  description = """
+  **Course:** CS2400 Principles of Programming Languages I<br>
+  **Instructor:** [Dr. Saurabh Joshi](https://sbjoshi.github.io/)
+  """
+
+[[experience]]
+  title = "Teaching Assistant"
+  company = "IIT Hyderabad"
+  company_url = "https://iith.ac.in"
+  location = "Sangareddy, Telangana, India"
   date_start = "2018-01-01"
   date_end = "2018-04-30"
   description = """

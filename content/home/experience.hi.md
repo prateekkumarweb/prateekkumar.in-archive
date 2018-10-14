@@ -24,6 +24,18 @@ date_format = "January 2006"
   company = "आईआईटी हैदराबाद"
   company_url = "https://iith.ac.in"
   location = "संगारेड्डी, तेलंगाना, भारत"
+  date_start = "2018-10-01"
+  date_end = "2018-11-30"
+  description = """
+  **कोर्स:** CS2400 Principles of Programming Languages I<br>
+  **प्रशिक्षक:** [Dr. Saurabh Joshi](https://sbjoshi.github.io/)
+  """
+
+[[experience]]
+  title = "शिक्षण सहायक"
+  company = "आईआईटी हैदराबाद"
+  company_url = "https://iith.ac.in"
+  location = "संगारेड्डी, तेलंगाना, भारत"
   date_start = "2018-01-01"
   date_end = "2018-04-30"
   description = """
