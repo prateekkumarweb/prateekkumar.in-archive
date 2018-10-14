@@ -1,9 +1,13 @@
 +++
 date = 2016-01-27
 title = "Bookbay"
-image_preview = "bookbay.png"
 summary = "Online portal and android app for books based on courses at IIT Hyderabad"
 tags = ["Bookbay", "IITH"]
+external_link = ""
+
+[image]
+  caption = ""
+  focal_point = "Smart"
 +++
 
 As part of our independent project in first semester at IIT Hyderbad, we built

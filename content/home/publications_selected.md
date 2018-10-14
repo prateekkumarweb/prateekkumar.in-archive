@@ -1,14 +1,10 @@
 +++
-# Selected Publications widget.
-# This widget displays publications from `content/publication/` which have
-# `selected = true` in their `+++` front matter.
 widget = "publications_selected"
 active = true
 
 title = "Publications"
-subtitle = ""
+subtitle = "[All Publications](/publication/)"
 
-# Order that this section will appear in.
 weight = 10
 
 # List format.
@@ -16,6 +12,7 @@ weight = 10
 #   1 = Detailed
 #   2 = APA
 #   3 = MLA
+#   4 = Stream
 list_format = 3
 
 # Filter by publication type.
@@ -29,5 +26,3 @@ list_format = 3
 #  6: Book chapter
 publication_type = "-1"
 +++
-
-[All Publications](/publication/)

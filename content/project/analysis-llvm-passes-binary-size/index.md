@@ -5,7 +5,10 @@ summary = "Analysis of impact of LLVM Passes on executable size and compile time
 image_preview = "llvm_logo.png"
 tags = ["LLVM", "Executable size", "LLVM Pass"]
 external_link = ""
-selected = true
+
+[image]
+  caption = "[LLVM](https://llvm.org)"
+  focal_point = ""
 +++
 
 I worked in a team as part of Course Project (Compiler Engineering) to analyze

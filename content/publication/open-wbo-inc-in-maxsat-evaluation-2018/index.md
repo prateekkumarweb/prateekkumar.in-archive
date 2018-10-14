@@ -12,7 +12,6 @@ publication_short = ""
 abstract = ""
 abstract_short = ""
 
-image_preview = ""
 selected = false
 
 projects = ["open-wbo-inc"]
@@ -27,9 +26,5 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-
-[header]
-image = ""
-caption = ""
 
 +++

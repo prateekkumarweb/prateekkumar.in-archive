@@ -2,12 +2,9 @@
 title = "Open-WBO Incomplete MaxSAT Solver"
 date = 2018-07-12
 draft = false
-
 tags = ["Open-WBO", "MaxSAT"]
 summary = "Contributions to Open-WBO Incomplete MaxSAT solver."
-image_preview = ""
 external_link = ""
-selected = true
 +++
 
 At MaxSAT Evaluation 2018, Open-WBO-Inc got 1st place in incomplete weighted track with 60s timeout

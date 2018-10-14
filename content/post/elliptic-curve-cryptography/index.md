@@ -1,14 +1,19 @@
 +++
 title = "Public Key Cryptography using Elliptic Curves"
+subtitle = ""
 date = 2018-06-02
 draft = false
 
+authors = ["@prateek"]
+
 tags = ["ECC", "Cryptography", "Security", "Encryption", "Decryption"]
+categories = []
 
 math = true
 
-[header]
-caption = "Elliptic Curve Addition (Image By SuperManu [<a href=\"http://www.gnu.org/copyleft/fdl.html\">GFDL</a> or <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>], <a href=\"https://commons.wikimedia.org/wiki/File:ECClines.svg\">via Wikimedia Commons</a>)"
+[image]
+  caption = "Elliptic Curve Addition (Image By SuperManu [<a href=\"http://www.gnu.org/copyleft/fdl.html\">GFDL</a> or <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>], <a href=\"https://commons.wikimedia.org/wiki/File:ECClines.svg\">via Wikimedia Commons</a>)"
+  focal_point = "Smart"
 
 +++
 

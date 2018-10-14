@@ -1,7 +1,10 @@
 +++
 title = "GNU Readline for Tab autocomplete and Bash like History"
+subtitle = ""
 date = 2018-08-18
 draft = false
+
+authors = ["@prateek"]
 
 tags = ["GNU Readline", "bash", "C++"]
 categories = ["Dev Tools"]

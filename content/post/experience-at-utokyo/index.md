@@ -1,13 +1,17 @@
 +++
 title = "Experience at UTokyo"
+subtitle = ""
 date = 2018-09-26
 draft = false
+
+authors = ["@prateek"]
 
 tags = ["UTokyo", "Internship"]
 categories = []
 
-[header]
-caption = "The University of Tokyo"
+[image]
+  caption = "The University of Tokyo"
+  focal_point = "Center"
 
 [[gallery_item]]
 album = "1"

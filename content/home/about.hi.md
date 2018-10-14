@@ -1,12 +1,8 @@
 +++
-# About/Biography widget.
 widget = "about"
 active = true
-
-# Order that this section will appear in.
 weight = 5
 
-# List your academic interests.
 [interests]
   interests = [
     "Constraint Solving",
@@ -16,7 +12,6 @@ weight = 5
     "Theoretical Computer Science"
   ]
 
-# List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "संगणक विज्ञान एवं अभियांत्रिकी में बी. टेक. (ऑनर्स)"
   institution = "भारतीय प्रौद्योगिकी संस्थान हैदराबाद"

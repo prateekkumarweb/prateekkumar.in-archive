@@ -2,8 +2,8 @@
 date = 2017-03-27
 title = "APV Quiz"
 summary = "Course Project based on concurrency."
-image_preview = "quiz.png"
 tags = ["Quiz", "Concurrency"]
+external_link = ""
 +++
 
 Quizzing Software in C++ (Client) and Golang (Server) as part of Course project

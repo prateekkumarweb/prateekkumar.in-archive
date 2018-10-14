@@ -12,7 +12,6 @@ publication_short = "CP"
 abstract = "Incomplete MaxSAT solving aims to quickly find a solution that attempts to minimize the sum of the weights of the unsatisfied soft clauses without providing any optimality guarantees. In this paper, we propose two approximation strategies for improving incomplete MaxSAT solving. In one of the strategies, we cluster the weights and approximate them with a representative weight. In another strategy, we break up the problem of minimizing the sum of weights of unsatisfiable clauses into multiple minimization subproblems. Experimental results show that approximation strategies can be used to find better solutions than the best incomplete solvers in the MaxSAT Evaluation 2017."
 abstract_short = ""
 
-image_preview = ""
 selected = true
 
 projects = ["open-wbo-inc"]
@@ -29,9 +28,5 @@ url_poster = ""
 url_source = ""
 
 doi = "10.1007/978-3-319-98334-9_15"
-
-[header]
-image = ""
-caption = ""
 
 +++
