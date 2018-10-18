@@ -17,7 +17,7 @@ selected = false
 projects = ["open-wbo-inc"]
 tags = ["MaxSAT", "Open-WBO"]
 
-url_pdf = "/files/papers/open-wbo-inc-mse18.pdf"
+url_pdf = ""
 url_preprint = ""
 url_code = "https://maxsat-evaluations.github.io/2018/mse18-solver-src/incomplete/Open-WBO-Inc.zip"
 url_dataset = ""
