@@ -2,7 +2,7 @@
 title = "Open-WBO Incomplete MaxSAT Solver"
 date = 2018-07-12
 draft = false
-tags = ["Open-WBO", "MaxSAT"]
+tags = ["Open-WBO", "MaxSAT", "C++"]
 summary = "Contributions to Open-WBO Incomplete MaxSAT solver."
 external_link = ""
 +++

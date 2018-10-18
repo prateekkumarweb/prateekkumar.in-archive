@@ -2,7 +2,7 @@
 date = 2016-01-27
 title = "Bookbay"
 summary = "Online portal and android app for books based on courses at IIT Hyderabad"
-tags = ["Bookbay", "IITH"]
+tags = ["Bookbay", "IITH", "NodeJS"]
 external_link = ""
 
 [image]

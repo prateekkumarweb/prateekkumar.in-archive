@@ -2,7 +2,7 @@
 date = 2017-03-27
 title = "APV Quiz"
 summary = "Course Project based on concurrency."
-tags = ["Quiz", "Concurrency"]
+tags = ["Quiz", "Concurrency", "C++", "Go"]
 external_link = ""
 +++
 

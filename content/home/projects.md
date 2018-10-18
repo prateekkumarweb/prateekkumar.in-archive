@@ -15,4 +15,16 @@ selected_only = true
 
 filter_default = 0
 
+[[filter]]
+  name = "All"
+  tag = "*"
+
+[[filter]]
+  name = "MaxSAT"
+  tag = "MaxSAT"
+
+[[filter]]
+  name = "LLVM"
+  tag = "LLVM"
+
 +++
