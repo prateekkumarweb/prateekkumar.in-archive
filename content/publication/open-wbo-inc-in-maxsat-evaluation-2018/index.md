@@ -27,4 +27,6 @@ url_video = ""
 url_poster = ""
 url_source = ""
 
+comments = false
+profile = false
 +++

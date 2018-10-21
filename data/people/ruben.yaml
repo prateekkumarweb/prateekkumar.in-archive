@@ -1,3 +1,7 @@
 name: Ruben Martins
 url: https://sat-group.github.io/ruben/
 github: rubengmartins
+social:
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/rubengmartins

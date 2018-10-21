@@ -1,3 +1,8 @@
 name: Saurabh Joshi
+bio: Asst. Prof. at [IIT Hyderabad](https://iith.ac.in).
 url: https://sbjoshi.github.io
-github: ruben
+github: sbjoshi
+social:
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/sbjoshi

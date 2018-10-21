@@ -36,6 +36,7 @@ pygmentsStyle = "friendly"
 [params]
   name = "Prateek Kumar"
   role = "Undergraduate student"
+  id = "@prateek"
   organizations = [ { name = "IIT Hyderabad", url = "https://iith.ac.in" } ]
   gravatar = true
   email = "prateek@prateekkumar.in"
@@ -60,6 +61,7 @@ pygmentsStyle = "friendly"
   reading_time = true
   comment_count = true
   section_pager = true
+  profile = true
 
   math = false
   highlight = false
@@ -101,31 +103,6 @@ pygmentsStyle = "friendly"
     #   1 = Detailed
     #   2 = Stream
     talk_format = 2
-
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fab"
-    link = "https://twitter.com/prateekkumarweb"
-
-  [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = "https://scholar.google.co.in/citations?user=M1NFyhAAAAAJ"
-
-  [[params.social]]
-    icon = "github"
-    icon_pack = "fab"
-    link = "https://github.com/prateekkumarweb"
-
-  [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fab"
-    link = "https://www.linkedin.com/in/prateekkumarweb/"
-
-  [[params.social]]
-    icon = "researchgate"
-    icon_pack = "ai"
-    link = "https://www.researchgate.net/profile/Prateek_Kumar34"
 
 [params.menus]
   align_right = true
