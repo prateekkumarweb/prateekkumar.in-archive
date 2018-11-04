@@ -1,7 +1,7 @@
 +++
 widget = "about"
 active = true
-weight = 5
+weight = 1
 
 [interests]
   interests = [

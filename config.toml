@@ -126,17 +126,17 @@ pygmentsStyle = "friendly"
 [[menu.main]]
   name = "Publications"
   url = "#publications_selected"
-  weight = 2
+  weight = 5
 
 [[menu.main]]
   name = "Posts"
   url = "#posts"
-  weight = 3
+  weight = 2
 
 # [[languages.hi.menu.main]]
 #   name = "पोस्ट"
 #   url = "#posts"
-#   weight = 3
+#   weight = 2
 
 [[menu.main]]
   name = "Talks"
@@ -146,7 +146,7 @@ pygmentsStyle = "friendly"
 [[menu.main]]
   name = "Projects"
   url = "#projects"
-  weight = 5
+  weight = 3
 
 [[menu.main]]
   name = "Experience"

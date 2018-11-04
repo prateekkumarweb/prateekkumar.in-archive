@@ -5,7 +5,7 @@ active = true
 title = "संपर्क"
 subtitle = ""
 
-weight = 70
+weight = 7
 autolink = true
 
 +++

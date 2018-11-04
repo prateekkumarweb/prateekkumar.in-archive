@@ -5,7 +5,7 @@ active = true
 title = "Projects"
 subtitle = ""
 
-weight = 50
+weight = 3
 
 folder = "project"
 

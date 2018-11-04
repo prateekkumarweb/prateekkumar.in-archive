@@ -5,7 +5,7 @@ active = true
 title = "Publications"
 subtitle = "[All Publications](/publication/)"
 
-weight = 10
+weight = 5
 
 # List format.
 #   0 = Simple

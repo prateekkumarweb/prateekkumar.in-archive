@@ -3,7 +3,7 @@ widget = "experience"  # Do not modify this line!
 active = true
 title = "अनुभव"
 subtitle = ""
-weight = 60
+weight = 6
 
 date_format = "January 2006"
 

@@ -5,7 +5,7 @@ active = false
 title = "Publications"
 subtitle = ""
 
-weight = 20
+weight = 5
 
 count = 10
 

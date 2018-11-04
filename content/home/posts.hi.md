@@ -5,7 +5,7 @@ active = false
 title = "पोस्ट"
 subtitle = ""
 
-weight = 30
+weight = 2
 
 tags_include = []
 tags_exclude = []

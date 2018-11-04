@@ -5,7 +5,7 @@ active = true
 title = "Recent & Upcoming Talks"
 subtitle = ""
 
-weight = 40
+weight = 4
 
 count = 10
 
