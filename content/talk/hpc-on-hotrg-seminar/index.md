@@ -16,7 +16,7 @@ event_url = ""
 
 location = "[Suda Lab, Department of Computer Science, Graduate School of Information Science and Technology, The University of Tokyo](http://olab.is.s.u-tokyo.ac.jp/~reiji/lab-e.html)"
 
-selected = false
+selected = true
 
 projects = []
 

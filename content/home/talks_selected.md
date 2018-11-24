@@ -2,14 +2,14 @@
 widget = "talks_selected"
 active = false
 
-title = "Selected Talks"
+title = "Recent & Upcoming Talks"
 subtitle = ""
 
-weight = 29
+weight = 4
 
 # List format.
 #   0 = Simple
 #   1 = Detailed
-#   3 = Stream
+#   2 = Stream
 list_format = 0
 +++
