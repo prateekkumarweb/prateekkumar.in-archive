@@ -31,7 +31,7 @@ pygmentsStyle = "friendly"
 
 [permalinks]
   post = "/:year/:month/:day/:filename/"
-  project = "/:year/:month/:filename/"
+#   project = "/:year/:month/:filename/"
 
 [params]
   name = "Prateek Kumar"
