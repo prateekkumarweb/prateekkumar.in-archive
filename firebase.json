@@ -19,7 +19,11 @@
       "type": 301
     }, {
       "source": "/2018/05/interval-domain-abstract-interpreter/",
-      "destination": "/project/interval-domain-abstract-interpreter/",
+      "destination": "/project/intervalai/",
+      "type": 301
+    }, {
+      "source": "/project/interval-domain-abstract-interpreter/",
+      "destination": "/project/intervalai/",
       "type": 301
     }, {
       "source": "/2018/04/analysis-llvm-passes-binary-size/",
