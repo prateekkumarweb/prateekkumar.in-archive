@@ -1,6 +1,6 @@
 +++
 widget = "talks"
-active = true
+active = false
 
 title = "Recent & Upcoming Talks"
 subtitle = ""
