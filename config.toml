@@ -50,6 +50,7 @@ pygmentsStyle = "friendly"
   zoom = 15
 
   color_theme = "default"
+  day_night = true
   font = "default"
   description = "I am a student currently pursuing my Bachelor's degree in Computer Science and Engineering at IIT Hyderabad."
   sharing_image = ""
