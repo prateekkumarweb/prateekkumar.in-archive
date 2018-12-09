@@ -1,0 +1,7 @@
+.reveal section p {
+	text-align: justify;
+}
+
+.reveal .slide-center p {
+	text-align: center;
+}
