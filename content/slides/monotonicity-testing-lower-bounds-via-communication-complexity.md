@@ -179,11 +179,10 @@ are all mutually independent.
 
 ---
 
-$\therefore Pr\_{S}((-1)^{|S \cap A|} = 1 \text{ and } (-1)^{|S \cap B|} = 1)$
-
-$= Pr\_{S}(|S \cap A'| \mod 2 = 0$ and $|S \cap (A \cap B)| \mod 2 = 0$ and $|S \cap B'| \mod 2 = 0)$
-$+ Pr\_{S}(|S \cap A'| \mod 2 = 1$ and $|S \cap (A \cap B)| \mod 2 = 1$ and $|S \cap B'| \mod 2 = 1)$
-$= \frac{1}{2}\*\frac{1}{2}\*\frac{1}{2} + \frac{1}{2}\*\frac{1}{2}\*\frac{1}{2} = \frac{1}{4}$
+$\therefore Pr\_{S}((-1)^{|S \cap A|} = 1 \text{ and } (-1)^{|S \cap B|} = 1)
+= Pr\_{S}(|S \cap A'| \mod 2 = 0$ and $|S \cap (A \cap B)| \mod 2 = 0$ and $|S \cap B'| \mod 2 = 0)
++ Pr\_{S}(|S \cap A'| \mod 2 = 1$ and $|S \cap (A \cap B)| \mod 2 = 1$ and $|S \cap B'| \mod 2 = 1)
+= \frac{1}{2}\*\frac{1}{2}\*\frac{1}{2} + \frac{1}{2}\*\frac{1}{2}\*\frac{1}{2} = \frac{1}{4}$
 
 *Note:* When $A'$ is empty, then both $A \cap B$ and $B'$ must have even number of elements and
 same probability of 1/4 will be obtained.
