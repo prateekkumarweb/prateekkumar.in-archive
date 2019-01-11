@@ -8,6 +8,18 @@ weight = 6
 date_format = "January 2006"
 
 [[experience]]
+  title = "शिक्षण सहायक"
+  company = "आईआईटी हैदराबाद"
+  company_url = "https://iith.ac.in"
+  location = "संगारेड्डी, तेलंगाना, भारत"
+  date_start = "2019-01-01"
+  date_end = "2019-04-30"
+  description = """
+  **कोर्स:** CS2433 Principles of Programming Languages II<br>
+  **प्रशिक्षक:** [Dr. Saurabh Joshi](https://sbjoshi.github.io/)
+  """
+
+[[experience]]
   title = "अनुसंधान इंटर्न"
   company = "टोक्यो विश्वविद्यालय"
   company_url = "https://www.u-tokyo.ac.jp/en/"

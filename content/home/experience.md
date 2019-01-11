@@ -8,6 +8,18 @@ weight = 6
 date_format = "January 2006"
 
 [[experience]]
+  title = "Teaching Assistant"
+  company = "IIT Hyderabad"
+  company_url = "https://iith.ac.in"
+  location = "Sangareddy, Telangana, India"
+  date_start = "2019-01-01"
+  date_end = "2019-04-30"
+  description = """
+  **Course:** CS2433 Principles of Programming Languages II<br>
+  **Instructor:** [Dr. Saurabh Joshi](https://sbjoshi.github.io/)
+  """
+
+[[experience]]
   title = "Research Intern"
   company = "The University of Tokyo"
   company_url = "https://www.u-tokyo.ac.jp/en/"
