@@ -2,12 +2,12 @@
 name = "Default"
 
 # Optional Google font URL
-google_fonts = "Noto+Sans|Roboto+Mono"
+google_fonts = "Nunito|Sahitya|Noto+Sans|Roboto+Mono"
 
 # Font families
-heading_font = "Noto Sans"
-body_font = "Noto Sans"
-nav_font = "Noto Sans"
+heading_font = "Nunito', 'Sahitya"
+body_font = "Nunito', 'Sahitya"
+nav_font = "Nunito', 'Sahitya"
 mono_font = "Roboto Mono"
 
 # Font size
