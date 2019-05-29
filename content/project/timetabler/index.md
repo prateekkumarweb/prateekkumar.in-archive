@@ -1,11 +1,21 @@
-+++
-date = 2017-10-27
-title = "Timetabler"
-summary = "Timetable generator using maxsat solver(Open-WBO)"
-tags = ["Open-WBO", "MaxSAT", "Timetable", "C++"]
-external_link = "https://github.com/GoodDeeds/Timetabler"
-+++
+---
+title: Timetabler
+summary: Timetable generator using maxsat solver(Open-WBO)
+tags:
+- Open-WBO
+- MaxSAT
+- Timetable
+- C++
+date: "2017-10-27"
+
+# Optional external URL for project (replaces project detail page).
+external_link: https://github.com/GoodDeeds/Timetabler
+
+# image:
+#   caption: ''
+#   focal_point: Smart
+---
 
 **Contributors:**
-{{% github prateek %}},
-{{% github sukrut %}}
+{{% github prateekkumarweb %}},
+{{% github GoodDeeds %}}

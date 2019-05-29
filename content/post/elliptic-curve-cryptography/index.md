@@ -1,21 +1,37 @@
-+++
-title = "Public Key Cryptography using Elliptic Curves"
-subtitle = ""
-date = 2018-06-02
-draft = false
+---
+title: 'Public Key Cryptography using Elliptic Curves'
+subtitle: ''
+summary: ''
+authors:
+- admin
+tags:
+- ECC
+- Cryptography
+- Security
+- Encryption
+- Decryption
+categories: []
+date: "2018-06-02"
+# lastmod: "2019-04-17T00:00:00Z"
+featured: false
+draft: false
+math: true
 
-authors = ["@prateek"]
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+image:
+  caption: 'Elliptic Curve Addition (Image By SuperManu [<a href=\"http://www.gnu.org/copyleft/fdl.html\">GFDL</a> or <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>], <a href=\"https://commons.wikimedia.org/wiki/File:ECClines.svg\">via Wikimedia Commons</a>)'
+  focal_point: "Smart"
+  preview_only: false
 
-tags = ["ECC", "Cryptography", "Security", "Encryption", "Decryption"]
-categories = []
-
-math = true
-
-[image]
-  caption = "Elliptic Curve Addition (Image By SuperManu [<a href=\"http://www.gnu.org/copyleft/fdl.html\">GFDL</a> or <a href=\"https://creativecommons.org/licenses/by-sa/3.0\">CC BY-SA 3.0</a>], <a href=\"https://commons.wikimedia.org/wiki/File:ECClines.svg\">via Wikimedia Commons</a>)"
-  focal_point = "Smart"
-
-+++
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+---
 
 [**Trapdoor functions**](https://en.wikipedia.org/wiki/Trapdoor_function) or **one-way functions** are essential for the working of public key cryptography or asymmetric cryptography where computing the reverse of the function is not feasible by modern day computers. Multiplication of two primes is easy but factoring a product of two primes is difficult, and this forms the basis of RSA cryptography, the widely used public key cryptography system. If you do not know what RSA is, I suggest reading [this](https://brilliant.org/wiki/rsa-encryption/). In this post, I talk about another asymmetric cryptography system known as Elliptic Curve Cryptography.<!--more-->
 

@@ -1,4 +1,3 @@
 [submodule "themes/academic"]
 	path = themes/academic
-	url = https://github.com/prateekkumarweb/hugo-academic.git
-	branch = dev
+	url = https://github.com/gcushen/hugo-academic.git

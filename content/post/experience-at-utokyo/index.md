@@ -1,124 +1,100 @@
-+++
-title = "Experience at UTokyo"
-subtitle = ""
-date = 2018-09-26
-draft = false
+---
+title: 'Experience at UTokyo'
+subtitle: ''
+summary: ''
+authors:
+- admin
+tags:
+- UTokyo
+- Internship
+categories: []
+date: "2018-09-26"
+# lastmod: "2019-04-17T00:00:00Z"
+featured: false
+draft: false
+math: false
 
-authors = ["@prateek"]
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+image:
+  caption: 'The University of Tokyo'
+  focal_point: "Center"
+  preview_only: false
 
-tags = ["UTokyo", "Internship"]
-categories = []
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
 
-[image]
-  caption = "The University of Tokyo"
-  focal_point = "Center"
-
-[[gallery_item]]
-album = "1"
-image = "internship/akihabara.jpg"
-caption = "Akihabara"
-
-[[gallery_item]]
-album = "1"
-image = "internship/shibuya.jpg"
-caption = "Shibuya"
-
-[[gallery_item]]
-album = "1"
-image = "internship/meijishrine.jpg"
-caption = "Meiji Shrine"
-
-[[gallery_item]]
-album = "1"
-image = "internship/yoyogipark.jpg"
-caption = "Yoyogi Park"
-
-[[gallery_item]]
-album = "1"
-image = "internship/zojoji.jpg"
-caption = "Zojo-ji (Buddhist temple)"
-
-[[gallery_item]]
-album = "1"
-image = "internship/nokogiri.jpg"
-caption = "View of the Hell at Nokogiriyama"
-
-[[gallery_item]]
-album = "1"
-image = "internship/nokogiribuddha.jpg"
-caption = "Buddha at Nokogiriyama"
-
-[[gallery_item]]
-album = "1"
-image = "internship/skytreeview.jpg"
-caption = "Skytree"
-
-[[gallery_item]]
-album = "1"
-image = "internship/tokyotower.jpg"
-caption = "Tokyo Tower"
-
-[[gallery_item]]
-album = "1"
-image = "internship/enoshima.jpg"
-caption = "Enoshima Island"
-
-[[gallery_item]]
-album = "1"
-image = "internship/fujisan.jpg"
-caption = "Fuji-san as seen from Lighthouse, Enoshima"
-
-[[gallery_item]]
-album = "1"
-image = "internship/bonsai.jpg"
-caption = "Bonsai"
-
-[[gallery_item]]
-album = "2"
-image = "internship/curry.jpg"
-caption = "Japanese Curry at CoCo Ichibaniya"
-
-[[gallery_item]]
-album = "2"
-image = "internship/dmgmorilunch.jpg"
-caption = "Lunch @ DMG Mori, Nagoya"
-
-[[gallery_item]]
-album = "3"
-image = "internship/mayfest1.jpg"
-caption = "May Fest @ UTokyo"
-
-[[gallery_item]]
-album = "3"
-image = "internship/mayfest2.jpg"
-caption = "May Fest @ UTokyo"
-
-[[gallery_item]]
-album = "3"
-image = "internship/mayfest3.jpg"
-caption = "May Fest @ UTokyo"
-
-[[gallery_item]]
-album = "3"
-image = "internship/teaceremony.jpg"
-caption = "Tea ceremony @ UTokyo"
-
-[[gallery_item]]
-album = "3"
-image = "internship/shinkansen.jpg"
-caption = "Shinkansen (Bullet train)"
-
-[[gallery_item]]
-album = "3"
-image = "internship/dmgmori.jpg"
-caption = "DMG Mori, Nagoya"
-
-[[gallery_item]]
-album = "3"
-image = "internship/final.jpg"
-caption = "Final Presentation"
-
-+++
+# Set captions for image gallery.
+gallery_item:
+- album: '1'
+  caption: Akihabara
+  image: internship/akihabara.jpg
+- album: '1'
+  image: internship/shibuya.jpg
+  caption: Shibuya
+- album: '1'
+  image: internship/meijishrine.jpg
+  caption: Meiji Shrine
+- album: '1'
+  image: internship/yoyogipark.jpg
+  caption: Yoyogi Park
+- album: '1'
+  image: internship/zojoji.jpg
+  caption: Zojo-ji (Buddhist temple)
+- album: '1'
+  image: internship/nokogiri.jpg
+  caption: View of the Hell at Nokogiriyama
+- album: '1'
+  image: internship/nokogiribuddha.jpg
+  caption: Buddha at Nokogiriyama
+- album: '1'
+  image: internship/skytreeview.jpg
+  caption: Skytree
+- album: '1'
+  image: internship/tokyotower.jpg
+  caption: Tokyo Tower
+- album: '1'
+  image: internship/enoshima.jpg
+  caption: Enoshima Island
+- album: '1'
+  image: internship/fujisan.jpg
+  caption: 'Fuji-san as seen from Lighthouse, Enoshima'
+- album: '1'
+  image: internship/bonsai.jpg
+  caption: Bonsai
+- album: '2'
+  image: internship/curry.jpg
+  caption: Japanese Curry at CoCo Ichibaniya
+- album: '2'
+  image: internship/dmgmorilunch.jpg
+  caption: 'Lunch @ DMG Mori, Nagoya'
+- album: '3'
+  image: internship/mayfest1.jpg
+  caption: May Fest @ UTokyo
+- album: '3'
+  image: internship/mayfest2.jpg
+  caption: May Fest @ UTokyo
+- album: '3'
+  image: internship/mayfest3.jpg
+  caption: May Fest @ UTokyo
+- album: '3'
+  image: internship/teaceremony.jpg
+  caption: Tea ceremony @ UTokyo
+- album: '3'
+  image: internship/shinkansen.jpg
+  caption: Shinkansen (Bullet train)
+- album: '3'
+  image: internship/dmgmori.jpg
+  caption: 'DMG Mori, Nagoya'
+- album: '3'
+  image: internship/final.jpg
+  caption: Final Presentation
+---
 
 I was interning at the University of Tokyo during the summer after the 3rd year of my B. Tech. This was the first time I visited any foreign country.<!--more-->
 

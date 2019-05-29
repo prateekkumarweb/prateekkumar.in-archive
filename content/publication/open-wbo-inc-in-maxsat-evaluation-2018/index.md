@@ -1,32 +1,44 @@
-+++
-title = "Open-WBO-Inc in MaxSAT Evaluation 2018"
-date = 2018-07-12
-draft = false
+---
+title: "Open-WBO-Inc in MaxSAT Evaluation 2018"
+authors:
+- Saurabh Joshi
+- admin
+- Vasco Manquinho
+- Ruben Martins
+- Alexander Nadel
+- Sukrut Rao
+date: "2018-07-12"
+doi: ""
 
-authors = ["@sbjoshi", "@prateek", "Vasco Manquinho", "@ruben", "Alexander Nadel", "@sukrut"]
-publication_types = ["4"]
+# Schedule page publish date (NOT publication's date).
+publishDate: "2018-07-12"
 
-publication = "MaxSAT Evaluation"
-publication_short = ""
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ["4"]
 
-abstract = ""
-abstract_short = ""
+# Publication name and optional abbreviated publication name.
+publication: "*MaxSAT Evaluation*"
+publication_short: "*CP*"
 
-selected = false
+abstract: ''
 
-projects = ["open-wbo-inc"]
-tags = ["MaxSAT", "Open-WBO"]
+# Summary. An optional shortened abstract.
+# summary: ''
 
-url_pdf = ""
-url_preprint = ""
-url_code = "https://maxsat-evaluations.github.io/2018/mse18-solver-src/incomplete/Open-WBO-Inc.zip"
-url_dataset = ""
-url_project = ""
-url_slides = ""
-url_video = ""
-url_poster = ""
-url_source = ""
+tags:
+- MaxSAT
+- Open-WBO
+featured: false
 
-comments = false
-profile = true
-+++
+# links:
+# - name: Custom Link
+#   url: http://example.org
+url_pdf: https://link.springer.com/content/pdf/10.1007/978-3-319-98334-9_15.pdf
+url_code: 'https://maxsat-evaluations.github.io/2018/mse18-solver-src/incomplete/Open-WBO-Inc.zip'
+
+projects:
+- open-wbo-inc
+---

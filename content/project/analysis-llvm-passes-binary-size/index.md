@@ -1,15 +1,36 @@
-+++
-date = 2018-04-10
-title = "Analysis of Executable Size Reduction by LLVM passes"
-summary = "Analysis of impact of LLVM Passes on executable size and compile time on SPEC 2017 CPU Benchamrk."
-image_preview = "llvm_logo.png"
-tags = ["LLVM", "Executable size", "LLVM Pass"]
-external_link = ""
+---
+title: Analysis of Executable Size Reduction by LLVM passes
+summary: Analysis of impact of LLVM Passes on executable size and compile time on SPEC 2017 CPU Benchamrk.
+tags:
+- LLVM
+- Executable size
+- LLVM Pass
+date: "2018-04-10"
 
-[image]
-  caption = "[LLVM](https://llvm.org)"
-  focal_point = ""
-+++
+# Optional external URL for project (replaces project detail page).
+external_link: ""
+
+image:
+  caption: "[LLVM](https://llvm.org)"
+  focal_point: Smart
+
+# links:
+# - icon: twitter
+#   icon_pack: fab
+#   name: Follow
+#   url: https://twitter.com/georgecushen
+# url_code: ""
+# url_pdf: ""
+# url_slides: ""
+# url_video: ""
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+# slides: example
+---
 
 I worked in a team as part of Course Project (Compiler Engineering) to analyze
 the impact of LLVM Passes on code bloat size and compile time on SPEC 2017 CPU

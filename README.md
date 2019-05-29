@@ -38,4 +38,6 @@ $ firebase login:ci
 Add this token as environmental variable `$FIREBASE_TOKEN` in Travis.
 
 ---
-Copyright &copy; 2018 Prateek Kumar
+All the HTML, CSS, JavaScript and other source codes are licenced under MIT.
+
+Copyright &copy; 2018-2019 Prateek Kumar

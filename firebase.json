@@ -9,58 +9,6 @@
       "source": "https://prateekkumar-in-1524596450586.firebaseapp.com/:file*",
       "destination": "https://prateekkumar.in/:file",
       "type": 301
-    }, {
-      "source": "/2018/06/02/elliptic-key-cryptography/",
-      "destination": "/2018/06/02/elliptic-curve-cryptography/",
-      "type": 301
-    }, {
-      "source": "/2018/07/open-wbo-inc/",
-      "destination": "/project/open-wbo-inc/",
-      "type": 301
-    }, {
-      "source": "/2018/05/interval-domain-abstract-interpreter/",
-      "destination": "/project/intervalai/",
-      "type": 301
-    }, {
-      "source": "/project/interval-domain-abstract-interpreter/",
-      "destination": "/project/intervalai/",
-      "type": 301
-    }, {
-      "source": "/2018/04/analysis-llvm-passes-binary-size/",
-      "destination": "/project/analysis-llvm-passes-binary-size/",
-      "type": 301
-    }, {
-      "source": "/2018/05/mailc/",
-      "destination": "/project/mailc/",
-      "type": 301
-    }, {
-      "source": "/2017/11/cool-compiler/",
-      "destination": "/project/cool-compiler/",
-      "type": 301
-    }, {
-      "source": "/2017/10/timetabler/",
-      "destination": "/project/timetabler/",
-      "type": 301
-    }, {
-      "source": "/2017/07/battleship-golang/",
-      "destination": "/project/battleship-golang/",
-      "type": 301
-    }, {
-      "source": "/2017/04/semaphore-minix/",
-      "destination": "/project/semaphore-minix/",
-      "type": 301
-    }, {
-      "source": "/2017/04/haskell-go-checkers/",
-      "destination": "/project/haskell-go-checkers/",
-      "type": 301
-    }, {
-      "source": "/2017/03/apv-quiz/",
-      "destination": "/project/apv-quiz/",
-      "type": 301
-    }, {
-      "source": "/2016/01/bookbay-independent-project/",
-      "destination": "/project/bookbay-independent-project/",
-      "type": 301
     }]
   }
 }

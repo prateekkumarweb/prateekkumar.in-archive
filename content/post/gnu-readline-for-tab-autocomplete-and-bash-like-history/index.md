@@ -1,15 +1,36 @@
-+++
-title = "GNU Readline for Tab autocomplete and Bash like History"
-subtitle = ""
-date = 2018-08-18
-draft = false
+---
+title: 'GNU Readline for Tab autocomplete and Bash like History'
+subtitle: ''
+summary: ''
+authors:
+- admin
+tags:
+- GNU Readline
+- bash
+- C++
+categories:
+- Dev Tools
+date: "2018-08-18"
+# lastmod: "2019-04-17T00:00:00Z"
+featured: false
+draft: false
+math: false
 
-authors = ["@prateek"]
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+image:
+  caption: 'The University of Tokyo'
+  focal_point: "Center"
+  preview_only: false
 
-tags = ["GNU Readline", "bash", "C++"]
-categories = ["Dev Tools"]
-
-+++
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+---
 
 GNU Readline is an easy-to-use library for autocompleting using Tab key and bash like history using up/down array keys for interactive programs with command line interface.<!--more-->
 
